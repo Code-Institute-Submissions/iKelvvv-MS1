@@ -4,6 +4,11 @@
   border: none;
 }
 
+h2 {
+	font-size: 1.1rem;
+	font-weight: bold;
+}
+
 /* Nav Bar */
 nav {
   margin-left: 1.5%;
@@ -248,6 +253,7 @@ body {
   border-left: 1px dashed #fff;
   padding: 0 0 50px 30px;
   position: relative;
+	width: 100%;
 }
 
 .rb-container ul.rb li:last-child {
