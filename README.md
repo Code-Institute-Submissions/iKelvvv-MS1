@@ -1,16 +1,48 @@
 # Sir Alex Ferguson history website.
 
 ## Introduction
+
 This project is a history website based on Sir Alex Ferguson, many consider him to be the best football manager of all time.
 This website will tell you all about his managerial career with lots of facts! His legacy has shown that you don't always need the best players to be the best.
 
-UX
+## UX
+
 This website is for people who don't know much about football and who would like to learn about the influence of managers within the game.
 There is no website that gives Sir Alex enough recognition that he deserves. I want to educate everyone  whether they are a football fan or not that this man's career has been game changing, not just for football but all sport.
 
-[![test](documentation-assets/wireframe-images/index.html-web.png)](documentation-assets/wireframe-images/index.html-web.png)
+## Wire-frames
 
-FEATURES
-At the top of each page, i have a navigation bar. This allows the user to navigate to the different pages.
+Web browser home page
+[![index.html-web](documentation-assets/wireframe-images/index.html-web.png)](documentation-assets/wireframe-images/index.html-web.png)
+
+Mobile browser home page
+[![index.html-web](documentation-assets/wireframe-images/index.html-mobile.png)](documentation-assets/wireframe-images/index.html-mobile.png)
+
+Web browser career page
+[![index.html-web](documentation-assets/wireframe-images/career.html-web.png)](documentation-assets/wireframe-images/career.html-web.png)
+
+Mobile browser career page
+[![index.html-web](documentation-assets/wireframe-images/career.html-mobile.png)](documentation-assets/wireframe-images/career.html-mobile.png)
+
+Web browser awards page
+[![index.html-web](documentation-assets/wireframe-images/awards.html-web.png)](documentation-assets/wireframe-images/awards.html-web.png)
+
+Mobile browser awards page
+[![index.html-web](documentation-assets/wireframe-images/awards.html-mobile.png)](documentation-assets/wireframe-images/awards.html-mobile.png)
+
+Web browser gallery page
+[![index.html-web](documentation-assets/wireframe-images/gallery.html-web.png)](documentation-assets/wireframe-images/gallery.html-web.png)
+
+Mobile browser gallery page
+[![index.html-web](documentation-assets/wireframe-images/gallery.html-mobile.png)](documentation-assets/wireframe-images/gallery.html-mobile.png)
+
+Web browser gallery page
+[![index.html-web](documentation-assets/wireframe-images/contact-us.html-web.png)](documentation-assets/wireframe-images/contact-us.html-web.png)
+
+Mobile browser gallery page
+[![index.html-web](documentation-assets/wireframe-images/contact-us.html-mobile.png)](documentation-assets/wireframe-images/contact-us.html-mobile.png)
+
+## Features
+At the top of each page, there is a navigation bar. This allows the user to navigate to the different pages.
 On the career and awards page, there is a timeline feature that displays all information in chronological order.
-At the bottom of each page, there is also a footer that links to the social media accounts.
+At the bottom of each page, there is a footer that links to the social media accounts.
