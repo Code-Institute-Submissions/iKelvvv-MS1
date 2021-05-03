@@ -49,7 +49,7 @@ At the bottom of each page, there is a footer that links to the social media acc
 
 ## Technologies
 
-1. [![Atom]](https://atom.io/) 
+1. [Atom](https://atom.io/)
 2. Chrome
 3. HTML
 4. CSS
