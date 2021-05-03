@@ -8,7 +8,7 @@ UX
 This website is for people who don't know much about football and who would like to learn about the influence of managers within the game.
 There is no website that gives Sir Alex enough recognition that he deserves. I want to educate everyone  whether they are a football fan or not that this man's career has been game changing, not just for football but all sport.
 
-[!(documentation-assets/wireframe-images/index.html-web.png)](documentation-assets/wireframe-images/index.html-web.png)
+[![test](documentation-assets/wireframe-images/index.html-web.png)](documentation-assets/wireframe-images/index.html-web.png)
 
 FEATURES
 At the top of each page, i have a navigation bar. This allows the user to navigate to the different pages.
