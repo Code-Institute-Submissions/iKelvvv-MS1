@@ -46,3 +46,11 @@ Mobile browser gallery page
 At the top of each page, there is a navigation bar. This allows the user to navigate to the different pages.
 On the career and awards page, there is a timeline feature that displays all information in chronological order.
 At the bottom of each page, there is a footer that links to the social media accounts.
+
+## Technologies
+
+1. [![Atom]](https://atom.io/) 
+2. Chrome
+3. HTML
+4. CSS
+5. Balsamiq
