@@ -50,7 +50,12 @@ At the bottom of each page, there is a footer that links to the social media acc
 ## Technologies
 
 1. [Atom](https://atom.io/)
-2. Chrome
-3. HTML
-4. CSS
-5. Balsamiq
+  * The project uses Atom to code.
+2. [Chrome](https://www.google.com/intl/en_uk/chrome/)
+  * The project uses Chrome to debug and test the source code using HTML5.
+3. [HTML](https://en.wikipedia.org/wiki/HTML)
+  * The project uses Hyper Text Markup Language.
+4. [CSS](https://en.wikipedia.org/wiki/CSS)
+  * The project uses Cascading Style Sheets.
+5. [Balsamiq](https://balsamiq.com/)
+  * The project uses Balsamiq to create a user interface.
