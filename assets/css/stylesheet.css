@@ -70,25 +70,25 @@ nav .start-home, a:nth-child(1):hover~.animation {
   background-color: #e74c3c;
 }
 
-nav .start-about, a:nth-child(2):hover~.animation {
+nav .start-career, a:nth-child(2):hover~.animation {
   width: 110px;
   left: 100px;
   background-color: #e74c3c;
 }
 
-nav .start-blog, a:nth-child(3):hover~.animation {
+nav .start-awards, a:nth-child(3):hover~.animation {
   width: 100px;
   left: 210px;
   background-color: #e74c3c;
 }
 
-nav .start-portefolio, a:nth-child(4):hover~.animation {
+nav .start-gallery, a:nth-child(4):hover~.animation {
   width: 160px;
   left: 310px;
   background-color: #e74c3c;
 }
 
-nav .start-contact, a:nth-child(5):hover~.animation {
+nav .start-contact-us, a:nth-child(5):hover~.animation {
   width: 120px;
   left: 470px;
   background-color: #e74c3c;
@@ -270,7 +270,7 @@ body {
   transition: all 1000ms ease-in-out;
 }
 
-ul.rb li .timestamp {
+ul.rb li .yearstamp {
   color: #e74c3c;
   position: relative;
   width: 100%;
