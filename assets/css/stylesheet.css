@@ -384,7 +384,7 @@ footer {
   display:  block;
   }
   .card {
-    width: 50%;
+    width: 33%;
   }
 
 /*for medium screen sizes from 950px wide and down*/
@@ -393,7 +393,7 @@ footer {
   display:  block;
   }
   .card {
-    width: 100%;
+    width: 50%;
   }
 }
 
