@@ -236,6 +236,13 @@ body {
   width: 50%;
 }
 
+.container-full {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 100%;
+}
+
 /* The circles on the timeline */
 .container::after {
   content: '';
@@ -303,6 +310,12 @@ body {
   border-radius: 6px;
   display: flex;
   align-items: center;
+}
+
+#stat-table {
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid black;
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
