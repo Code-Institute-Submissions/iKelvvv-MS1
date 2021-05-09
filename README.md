@@ -24,7 +24,7 @@ This is a history website based on Sir Alex Ferguson, many consider him to be th
 * Frequent User Goals
 
   a. As a Frequent User, I want to check to see if there are any newly added stats and facts.
-  
+
   b. As a Frequent User, I want to check to see if another manager will be rated as highly.
 
 ## Wire-frames
@@ -93,10 +93,10 @@ Mobile browser gallery page
 ### Code
  * The navigation bar code came from [Code Pen](https://codepen.io/Patak/pen/QpLpOV/)
  * The cards view on the index.html was inspired from {Code Pen}(https://codepen.io/mcraiganthony/pen/NxGxqm)
- * The timeline feature on the career.html and awards.html page was inspired from {W3Schools}(https://www.w3schools.com/howto/howto_css_timeline.asp)
+ * The timeline feature on the career.html and awards.html page was inspired from [W3Schools](https://www.w3schools.com/howto/howto_css_timeline.asp)
  * The footer code came from the Love Running projects
 
 ### Content
- * All quotes on the index.html page came from {Planet Football}(https://www.planetfootball.com/quick-reads/19-of-the-best-quotes-about-sir-alex-ferguson-such-an-iconic-person/)
+ * All quotes on the index.html page came from [Planet Football](https://www.planetfootball.com/quick-reads/19-of-the-best-quotes-about-sir-alex-ferguson-such-an-iconic-person/)
  * The timeline content on the career.html page came from {Wikipedia}(https://en.wikipedia.org/wiki/Alex_Ferguson)
- * All club logo images came from {Google Images}(https://www.google.com/imghp?hl=en)
+ * All club logo images came from [Google Images](https://www.google.com/imghp?hl=en)
