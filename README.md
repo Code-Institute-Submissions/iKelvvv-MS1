@@ -9,9 +9,9 @@ This is a history website based on Sir Alex Ferguson, many consider him to be th
 
  * First Time Visitor Goals
 
-  a. As a First Time Visitor, I want to learn about the history of this person and understand why he was rated so highly.
-  b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-  c. As a First Time Visitor, I want to look for statistics and facts to tell my why he's proven to be the greatest of all time.
+  A. As a First Time Visitor, I want to learn about the history of this person and understand why he was rated so highly.
+  B. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+  C. As a First Time Visitor, I want to look for statistics and facts to tell my why he's proven to be the greatest of all time.
 
  * Returning Visitor Goals
 
