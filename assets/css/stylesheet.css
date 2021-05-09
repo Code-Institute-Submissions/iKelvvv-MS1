@@ -96,7 +96,7 @@ nav .start-contact-us, a:nth-child(5):hover~.animation {
 
 body {
   font-size: 12px;
-  font-family: sans-serif;
+  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   background: white;
 }
 
@@ -131,18 +131,6 @@ body {
 
 html {
   background-color: #f0f0f0;
-}
-
-body {
-  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-style: normal;
-  font-weight: 400;
-  letter-spacing: 0;
-  padding: 1rem;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  -moz-font-feature-settings: "liga"on;
 }
 
 .cards img {
@@ -414,7 +402,6 @@ footer {
  @media screen and (max-width: 800px) {
    .nav-heading {
    display:  block;
-   width: 100%;
    }
    .card {
      width: 100%;
