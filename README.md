@@ -5,23 +5,23 @@
 This is a history website based on Sir Alex Ferguson, many consider him to be the best football manager of all time. This website shows you why he is the one of if not the greatest football managers of all time. You will find many stats and facts about managerial.
 
 ## UX
-* User stories
+### User stories
 
  * First Time Visitor Goals
 
- a. As a First Time Visitor, I want to learn about the history of this person and understand why he was rated so highly.
- b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
- c. As a First Time Visitor, I want to look for statistics and facts to tell my why he's proven to be the greatest of all time.
+  a. As a First Time Visitor, I want to learn about the history of this person and understand why he was rated so highly.
+  b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+  c. As a First Time Visitor, I want to look for statistics and facts to tell my why he's proven to be the greatest of all time.
 
  * Returning Visitor Goals
 
- a. As a Returning Visitor, I want to find information about Sir Alex Ferguson.
- b. As a Returning Visitor, I want to find the best way to get in contact the organisation with any questions I may have.
+  a. As a Returning Visitor, I want to find information about Sir Alex Ferguson.
+  b. As a Returning Visitor, I want to find the best way to get in contact the organisation with any questions I may have.
 
 * Frequent User Goals
 
-a. As a Frequent User, I want to check to see if there are any newly added stats and facts.
-b. As a Frequent User, I want to check to see if another manager will be rated as highly.
+  a. As a Frequent User, I want to check to see if there are any newly added stats and facts.
+  b. As a Frequent User, I want to check to see if another manager will be rated as highly.
 
 ## Wire-frames
 
