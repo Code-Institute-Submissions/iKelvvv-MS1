@@ -99,4 +99,4 @@ Mobile browser gallery page
 ### Content
  * All quotes on the index.html page came from [Planet Football](https://www.planetfootball.com/quick-reads/19-of-the-best-quotes-about-sir-alex-ferguson-such-an-iconic-person/)
  * The timeline content on the career.html page came from [Wikipedia](https://en.wikipedia.org/wiki/Alex_Ferguson)
- * All club logo images came from [Google Images](https://www.google.com/imghp?hl=en)
+ * All images came from [Google Images](https://www.google.com/imghp?hl=en)
