@@ -308,6 +308,10 @@ html {
   border-radius: 10px;
 }
 
+#stat-table th, td {
+  padding-right: 5px;
+}
+
 /* gallery */
 #photos {
   clear: both;
