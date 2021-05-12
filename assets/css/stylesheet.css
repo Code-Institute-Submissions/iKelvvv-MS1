@@ -434,6 +434,10 @@ footer {
     width: 33%;
   }
 
+  .nav-heading h1 {
+    text-align: center;
+  }
+
   /*for medium screen sizes from 950px wide and down*/
   @media screen and (max-width: 950px) {
     .nav-heading {
@@ -447,7 +451,10 @@ footer {
     #photos {
       column-count: 3;
     }
-  }
+
+    .nav-heading h1 {
+      text-align: center;
+    }
 
   /*for small screen sizes 800px and down*/
   @media screen and (max-width: 800px) {
@@ -461,6 +468,10 @@ footer {
 
     #photos {
       column-count: 2;
+    }
+
+    .nav-heading h1 {
+      text-align: center;
     }
 
     /* Place the timelime to the left */
