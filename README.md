@@ -114,7 +114,7 @@ Mobile browser gallery page
 ### Languages Used
 * [HTML5](https://en.wikipedia.org/wiki/HTML)
   * The project uses Hyper Text Markup Language.
-* [CS3](https://en.wikipedia.org/wiki/CSS)
+* [CSS3](https://en.wikipedia.org/wiki/CSS)
   * The project uses Cascading Style Sheets.
 
 ## Technologies Used
