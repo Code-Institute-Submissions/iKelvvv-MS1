@@ -391,7 +391,7 @@ footer {
   height: 900px;
 }
 
-.signup-form {
+.contact-form {
   margin: 150px 10% 0 0;
   color: #fff;
   background-color: #34495e;
@@ -399,9 +399,10 @@ footer {
   position: absolute;
   left: 10%;
   padding: 30px;
+  border-radius: 10px;
 }
 
-.signup-form h2 {
+.contact-form h2 {
   color: #fafafa;
   margin-bottom: 20px;
 }
