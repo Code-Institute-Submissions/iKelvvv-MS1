@@ -14,10 +14,7 @@ A live website can be found [here](git-hub-pages-link)
     + [Project Goal](#project-goal)
       - [User Goals:](#user-goals)
       - [User Expectations:](#user-expectations)
-      - [User Stories:](#user-stories)
-      - [Strategy Table](#strategy-table)
       - [Trends of Modern Websites](#trends-of-modern-websites)
-  * [Scope](#scope)
   * [Structure](#structure)
   * [Skeleton](#skeleton)
   * [Surface](#surface)
@@ -40,8 +37,7 @@ This project will showcase statistics and facts that proves that his legacy was 
 
 The main goal for this website is show more awareness of this man. I want to teach the target audience of why he is rated so highly by his peers and colleagues.
 
-### User Goals
-
+### User Goals:
  * First Time Visitor Goals
 
   a. As a First Time Visitor, I want to learn about the history of this person and understand why he was rated so highly.
@@ -61,6 +57,21 @@ The main goal for this website is show more awareness of this man. I want to tea
   a. As a Frequent User, I want to check to see if there are any newly added stats and facts.
 
   b. As a Frequent User, I want to check to see if another manager will be rated as highly.
+
+### User Expectations:
+The content should prove why Sir Alex Ferguson is the greatest manager.
+- The content is displayed in a clear and understanding format.
+- The user interface is easy to navigate.
+- The website is responsive on all devices this includes mobile, table and desktop.
+- To have the ability to contact the creator of the website.
+
+### Trends of modern websites:
+- Multimedia experiences
+- Offering Audio
+- Consistency of design
+- Easy on the eye colour pallets
+
+## Structure
 
 ## Wire-frames
 
