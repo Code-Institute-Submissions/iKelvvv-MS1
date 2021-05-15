@@ -9,7 +9,7 @@ A live website can be found [here](git-hub-pages-link)
 (Preview Images)
 
 # Table of Contents
-- [UX](##ux)
+- [UX](#ux)
 
 ## UX
 ### User stories
