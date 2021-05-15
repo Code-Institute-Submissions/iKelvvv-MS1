@@ -444,6 +444,10 @@ footer {
       display: block;
     }
 
+    .nav-heading h1 {
+      text-align: center;
+    }
+
     .card {
       width: 50%;
     }
@@ -452,14 +456,15 @@ footer {
       column-count: 3;
     }
 
-    .nav-heading h1 {
-      text-align: center;
-    }
-
   /*for small screen sizes 800px and down*/
   @media screen and (max-width: 800px) {
     .nav-heading {
       display: block;
+    }
+
+    nav {
+      display: flex;
+      margin: 0 auto;
     }
 
     .card {
@@ -508,6 +513,11 @@ footer {
   /* Media queries - Responsive timeline on screens less than 600px wide */
   @media screen and (max-width: 600px) {
 
+    nav {
+      display: flex;
+      margin: 0 auto;
+    }
+
     /* Place the timelime to the left */
     .timeline::after {
       left: 31px;
@@ -537,4 +547,3 @@ footer {
     .right {
       left: 0%;
     }
-  }
