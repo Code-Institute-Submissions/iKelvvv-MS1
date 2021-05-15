@@ -131,6 +131,10 @@ body {
   width: 85%;
   margin: 0 auto;
 }
+
+#video-title {
+  text-align: center;
+}
 /* Home Page cards */
 *,
 *::before,
@@ -337,7 +341,7 @@ html {
   margin-top: 1.5%;
   margin-left: auto;
   margin-right: auto;
-  height: 67.5em;
+  height: 50em;
 }
 
 .club-logo {
