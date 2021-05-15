@@ -1,8 +1,15 @@
-# Sir Alex Ferguson history website.
+# Sir Alex Ferguson History Website
 
 ## Introduction
 
-This is a history website based on Sir Alex Ferguson, many consider him to be the best football manager of all time. This website shows you why he is the one of if not the greatest football managers of all time. You will find many stats and facts about managerial.
+Welcome to my first project. This project is a history website based on Sir Alex Ferguson, many consider him to be the best football manager of all time. This website shows you why he is the one of if not the greatest football managers of all time. You will find many stats and facts about managerial.
+
+A live website can be found [here](git-hub-pages-link)
+
+(Preview Images)
+
+# Table of Contents
+- [UX](##ux)
 
 ## UX
 ### User stories
