@@ -12,7 +12,7 @@ A live website can be found [here](git-hub-pages-link)
 - [UX](#ux)
   * [Strategy](#strategy)
     + [Project Goal](#project-goal)
-      -[User Goals:](#user-goals-)
+      -[User Goals:](#user-goals)
       -[User Expectations:](#user-expectations)
       -[User Stories:](#user-stories)
       -[Strategy Table](#strategy-table)
@@ -28,8 +28,19 @@ A live website can be found [here](git-hub-pages-link)
 - [Testing](#testing)
 - [Deployment](#deployment)
 - [Credits](#credits)
-## UX
-### User stories
+# UX
+
+As a big football and Manchester United fan, I have always seen articles on why Sir Alex Ferguson is the greatest manager ever. However, I have not come across of a dedicated website to showcase his whole career.
+
+This project will showcase statistics and facts that proves that his legacy was one of the greatest of all time.
+
+## Strategy
+
+### Project Goal
+
+The main goal for this website is show more awareness of this man. I want to teach the target audience of why he is rated so highly by his peers and colleagues.
+
+### User Goals
 
  * First Time Visitor Goals
 
