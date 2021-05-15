@@ -78,7 +78,7 @@ nav .start-career, a:nth-child(2):hover~.animation {
   background-color: #e74c3c;
 }
 
-nav .start-awards, a:nth-child(3):hover~.animation {
+nav .start-quotes, a:nth-child(3):hover~.animation {
   width: 100px;
   left: 210px;
   background-color: #e74c3c;
@@ -124,6 +124,12 @@ body {
   border-radius: 25px;
 }
 
+#summary {
+  font-size: 1rem;
+  text-align: center;
+  width: 85%;
+  margin: 0 auto;
+}
 /* Home Page cards */
 *,
 *::before,
