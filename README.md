@@ -11,7 +11,7 @@ A live website can be found [here](git-hub-pages-link)
 # Table of Contents
 - [UX](#ux)
   * [Strategy](#strategy)
-    + [Project Goal](#project-goal)
+    + [Project Goals](#project-goals)
       - [User Goals:](#user-goals)
       - [User Expectations:](#user-expectations)
       - [Trends of Modern Websites](#trends-of-modern-websites)
@@ -33,30 +33,29 @@ This project will showcase statistics and facts that proves that his legacy was 
 
 ## Strategy
 
-### Project Goal
+### Project Goals
 
 The main goal for this website is show more awareness of this man. I want to teach the target audience of why he is rated so highly by his peers and colleagues.
 
 ### User Goals:
  * First Time Visitor Goals
+    - As a First Time Visitor, I want to learn about the history of this person and understand why he was rated so highly.
 
-  a. As a First Time Visitor, I want to learn about the history of this person and understand why he was rated so highly.
+    - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
-  b. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-
-  c. As a First Time Visitor, I want to look for statistics and facts to tell my why he's proven to be the greatest of all time.
+    - As a First Time Visitor, I want to look for statistics and facts to tell my why he's proven to be the greatest of all time.
 
  * Returning Visitor Goals
 
-  a. As a Returning Visitor, I want to find information about Sir Alex Ferguson.
+    - As a Returning Visitor, I want to find information about Sir Alex Ferguson.
 
-  b. As a Returning Visitor, I want to find the best way to get in contact the organisation with any questions I may have.
+    - As a Returning Visitor, I want to find the best way to get in contact the organisation with any questions I may have.
 
 * Frequent User Goals
 
-  a. As a Frequent User, I want to check to see if there are any newly added stats and facts.
+    - As a Frequent User, I want to check to see if there are any newly added stats and facts.
 
-  b. As a Frequent User, I want to check to see if another manager will be rated as highly.
+    - As a Frequent User, I want to check to see if another manager will be rated as highly.
 
 ### User Expectations:
 The content should prove why Sir Alex Ferguson is the greatest manager.
