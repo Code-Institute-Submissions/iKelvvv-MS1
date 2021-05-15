@@ -110,25 +110,24 @@ Mobile browser gallery page
  * Navigation bar that is clear and easy to use
  * Footer on each page that links to the social media websites
 
-## Technologies Used
 
 ### Languages Used
-
-* [HTML](https://en.wikipedia.org/wiki/HTML)
+* [HTML5](https://en.wikipedia.org/wiki/HTML)
   * The project uses Hyper Text Markup Language.
-* [CSS](https://en.wikipedia.org/wiki/CSS)
+* [CS3](https://en.wikipedia.org/wiki/CSS)
   * The project uses Cascading Style Sheets.
 
-1. [Atom](https://atom.io/)
-  * The project uses Atom to code.
-2. [Chrome](https://www.google.com/intl/en_uk/chrome/)
-  * The project uses Chrome to debug and test the source code using HTML5.
-3. [Balsamiq](https://balsamiq.com/)
-  * Balsamiq was used to create the wireframes during the design process.
-4. [Google Fonts](https://fonts.google.com/)
-  * Google fonts were used to import "Roboto" font into the style.css file which is used on all pages throughout the project.
-5. [GitHub](https://github.com/)
-  * GitHub is used to store the projects code after being pushed from Git.
+## Technologies Used
+* [Atom](https://atom.io/)
+  - The project uses Atom to code.
+* [Chrome](https://www.google.com/intl/en_uk/chrome/)
+  - The project uses Chrome to debug and test the source code using HTML5.
+* [Balsamiq](https://balsamiq.com/)
+  - Balsamiq was used to create the wireframes during the design process.
+* [Google Fonts](https://fonts.google.com/)
+  - Google fonts were used to import "Roboto" font into the style.css file which is used on all pages throughout the project.
+* [GitHub](https://github.com/)
+  - GitHub is used to store the projects code after being pushed from Git.
 
 
 ## Known Bugs
