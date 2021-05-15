@@ -10,7 +10,24 @@ A live website can be found [here](git-hub-pages-link)
 
 # Table of Contents
 - [UX](#ux)
-
+  * [Strategy](#strategy)
+    + [Project Goal](#project-goal)
+      -[User Goals:](#user-goals-)
+      -[User Expectations:](#user-expectations)
+      -[User Stories:](#user-stories)
+      -[Strategy Table](#strategy-table)
+      -[Trends of Modern Websites](#trends-of-modern-websites)
+  * [Scope](#scope)
+  * [Structure](#structure)
+  * [Skeleton](#skeleton)
+  * [Surface](#surface)
+- [Features](#features)
+    + [Existing Features](#existing-features)
+    + [Features Left to Implement](#features-left-to-implement)
+- [Technologies Used](#technologies-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
 ## UX
 ### User stories
 
