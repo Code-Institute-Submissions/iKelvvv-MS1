@@ -27,7 +27,7 @@ nav {
 nav a {
   line-height: 50px;
   height: 100%;
-  font-size: 15px;
+  font-size: 1rem;
   display: inline-block;
   position: relative;
   z-index: 1;
@@ -48,52 +48,52 @@ nav .animation {
 }
 
 a:nth-child(1) {
-  width: 100px;
+  width: 6.25rem;
 }
 
 a:nth-child(2) {
-  width: 100px;
+  width: 6.25rem;
 }
 
 a:nth-child(3) {
-  width: 130px;
+  width: 8.125rem;
 }
 
 a:nth-child(4) {
-  width: 100px;
+  width: 6.25rem;
 }
 
 a:nth-child(5) {
-  width: 100px;
+  width: 6.25rem;
 }
 
 nav .start-home, a:nth-child(1):hover~.animation {
-  width: 100px;
+  width: 6.25rem;
   left: 0;
   background-color: #e74c3c;
 }
 
 nav .start-career, a:nth-child(2):hover~.animation {
-  width: 100px;
-  left: 100px;
+  width: 6.25rem;
+  left: 6.25rem;
   background-color: #e74c3c;
 }
 
 nav .start-testimonials, a:nth-child(3):hover~.animation {
-  width: 130px;
-  left: 200px;
+  width: 8.125rem;
+  left: 12.5rem;
   background-color: #e74c3c;
 }
 
 nav .start-gallery, a:nth-child(4):hover~.animation {
-  width: 100px;
-  left: 330px;
+  width: 6.25rem;
+  left: 20.625rem;
   background-color: #e74c3c;
 }
 
 nav .start-contact-us, a:nth-child(5):hover~.animation {
-  width: 100px;
-  left: 430px;
+  width: 6.25rem;
+  left: 26.875rem;
   background-color: #e74c3c;
 }
 
