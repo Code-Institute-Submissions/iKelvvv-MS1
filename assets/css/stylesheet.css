@@ -52,19 +52,19 @@ a:nth-child(1) {
 }
 
 a:nth-child(2) {
-  width: 110px;
-}
-
-a:nth-child(3) {
   width: 100px;
 }
 
+a:nth-child(3) {
+  width: 130px;
+}
+
 a:nth-child(4) {
-  width: 160px;
+  width: 100px;
 }
 
 a:nth-child(5) {
-  width: 120px;
+  width: 100px;
 }
 
 nav .start-home, a:nth-child(1):hover~.animation {
@@ -74,26 +74,26 @@ nav .start-home, a:nth-child(1):hover~.animation {
 }
 
 nav .start-career, a:nth-child(2):hover~.animation {
-  width: 110px;
+  width: 100px;
   left: 100px;
   background-color: #e74c3c;
 }
 
 nav .start-testimonials, a:nth-child(3):hover~.animation {
-  width: 100px;
-  left: 210px;
+  width: 130px;
+  left: 200px;
   background-color: #e74c3c;
 }
 
 nav .start-gallery, a:nth-child(4):hover~.animation {
-  width: 160px;
-  left: 310px;
+  width: 100px;
+  left: 330px;
   background-color: #e74c3c;
 }
 
 nav .start-contact-us, a:nth-child(5):hover~.animation {
-  width: 120px;
-  left: 470px;
+  width: 100px;
+  left: 430px;
   background-color: #e74c3c;
 }
 
