@@ -375,10 +375,6 @@ footer {
   text-align: center;
 }
 
-#contact-footer {
-  position: absolute;
-}
-
 .social-network {
   text-align: center;
 }
@@ -392,13 +388,6 @@ footer {
   margin: 1%;
   padding: 3%;
   color: #3a3a3a
-}
-
-.image-inline>img {
-  float: right;
-  border-radius: 15px;
-  margin-right: 10rem;
-  margin-top: 5rem;
 }
 
 /*contact us form*/
@@ -474,8 +463,9 @@ footer {
     width: 50%;
   }
 
-  #photos {
-    column-count: 3;
+  .column {
+    flex: 33%;
+    max-width: 33%;
   }
 
   #video {
@@ -497,8 +487,9 @@ footer {
     width: 100%;
   }
 
-  #photos {
-    column-count: 2;
+  .column {
+    flex: 50%;
+    max-width: 50%;
   }
 
   .nav-heading h1 {
@@ -574,6 +565,11 @@ footer {
   /* Make all right containers behave like the left ones */
   .right {
     left: 0%;
+  }
+
+  .column {
+    flex: 100%;
+    max-width: 100%;
   }
 
   #video {
