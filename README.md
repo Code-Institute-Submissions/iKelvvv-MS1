@@ -24,6 +24,7 @@ A live website can be found [here](git-hub-pages-link)
     + [Features Left to Implement](#features-left-to-implement)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
+- [Known Bugs](#known-bugs)
 - [Deployment](#deployment)
 - [Credits](#credits)
 # UX
@@ -152,7 +153,7 @@ Mobile browser gallery page
 ## Surface
 
 ### Colours
-Please find the colours schemes that i used [here](https://coolors.co/34495e-ffffff-e74c3c-3a3a3a-fafafa)
+Please find the colours schemes that i used [here](https://coolors.co/34495e-ffffff-e74c3c-3a3a3a-fafafa).
 
 ### Typography
 I decided to use Roboto as my font of choice with sans serf as my backup font for browsers that might not support Roboto.
@@ -202,9 +203,45 @@ I decided to use Roboto as my font of choice with sans serf as my backup font fo
 * [GitHub](https://github.com/)
   - GitHub is used to store the projects code after being pushed from Git.
 
+# Testing
 
-## Known Bugs
- * On some mobile devices the navigation pushes down on two lines
+## Automated testing
+
+### Google Developer Tools
+
+Every element that i added to my html, i would add the basic CSS in to my stylesheet. I would then use the inspect element to try different styles. Once i've got it to my liking i would copy the CSS from google into my stylesheet. This allows to keep track of the code i am using.
+
+### Responsive Tools
+
+I used [Am I Responsive](http://ami.responsivedesign.is/) to make sure that all my pages are responsive to all devices.
+
+### W3C Validator Tools
+
+I used [W3C Markup](https://validator.w3.org/#validate_by_input+with_options) to check for any errors within my HTML pages.
+
+I used [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) to check for any error within my CSS stylesheet.
+
+## Manual Testing
+
+I have tested my site on Safari and google chrome on multiple devices.
+
+These include:
+  - iPhone X
+  - iPhone XS Max
+  - iPad Pro
+  - Macbook Pro
+  - Dekstop
+
+# Known Bugs
+  - On some mobile devices the navigation bar pushes down on two lines
+
+# Deployment
+
+I used GitHub pages to deploy this project.
+
+(OL how to do this)
+
+
 
 ## Credits
 
