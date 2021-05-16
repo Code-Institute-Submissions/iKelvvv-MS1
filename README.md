@@ -149,6 +149,16 @@ Web browser gallery page
 Mobile browser gallery page
 [![index.html-web](documentation-assets/wireframe-images/contact-us.html-mobile.png)](documentation-assets/wireframe-images/contact-us.html-mobile.png)
 
+## Surface
+
+### Colours
+Please find the colours schemes that i used (here)[https://coolors.co/34495e-ffffff-e74c3c-3a3a3a-fafafa]
+
+### Typography
+I decided to use Roboto as my font of choice with sans serf as my backup font for browsers that might not support Roboto.
+
+# Features
+
 
 
 
