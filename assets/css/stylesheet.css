@@ -433,6 +433,10 @@ footer {
 }
 
 /*contact us form*/
+#contact-footer {
+  position: absolute;
+}
+
 .contact-form {
   margin: 150px 10% 0 0;
   color: #fff;
