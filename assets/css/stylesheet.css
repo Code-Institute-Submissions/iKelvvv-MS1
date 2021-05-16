@@ -348,16 +348,10 @@ html {
 }
 
 .club-logo {
-  width: 25%;
-  height: 25%;
-  float: right;
-}
-
-.club-logo-right {
-  width: 20%;
-  height: 20%;
-  float: right;
-  margin-right: 5%;
+  width: 40%;
+  height: 40%;
+  margin: 0 auto;
+  display: block;
 }
 
 .content h3, p {
