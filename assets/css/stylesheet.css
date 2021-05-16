@@ -79,7 +79,7 @@ nav .start-career, a:nth-child(2):hover~.animation {
   background-color: #e74c3c;
 }
 
-nav .start-quotes, a:nth-child(3):hover~.animation {
+nav .start-testimonials, a:nth-child(3):hover~.animation {
   width: 100px;
   left: 210px;
   background-color: #e74c3c;
