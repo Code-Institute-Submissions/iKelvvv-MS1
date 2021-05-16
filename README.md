@@ -15,6 +15,7 @@ A live website can be found [here](git-hub-pages-link)
       - [User Goals:](#user-goals)
       - [User Expectations:](#user-expectations)
       - [Trends of Modern Websites](#trends-of-modern-websites)
+      - [Strategy Table](#strategy-table)
   * [Structure](#structure)
   * [Skeleton](#skeleton)
   * [Surface](#surface)
@@ -78,20 +79,46 @@ Increase awareness | 5 | 5
 Educational content | 5| 5
 Highlight achievements | 5 | 5
 Responsive design | 5 | 5
-Contact me form | 3 | 5
-Career History| 5 | 5
-Testimonials | 4 | 5
+Contact me form | 4 | 5
+Career history | 5 | 5
+Testimonials | 5 | 5
+Honourable mentions | 3 | 2
 Dark mode | 4 | 1
-Total | 40 | 36
+Total | 41 | 38
+
 ## Scope
 
-As i unable to
+As I unable to include all of the features from the strategy table. I will phase this project in multiple phases. Phase 1 will be what i have identified as a minimum viable product. Please find below the plans i have for each phase.
+
+### Phase 1
+- Add educational content
+- Highlight his achievements
+- Responsive design
+- Increase awareness
+- Contact me form
+- Career history
+- Testimonials
+
+### Phase 2
+- Dark Mode
+- Honourable mentions
 
 ## Structure
 
+It is really important to include responsive design in this project as many users are using different devices (mobile, tablet, laptop/PC). This gives the user the best experience on their device.
 
-## Wire-frames
+ - Responsive on all devices sizes
+ - Navigation bar that is placed on the top left of the screen and is clear and easy to use. This is also placed in the    same position on every page.
+ - Footer at the bottom of each page that links to the social media websites.
+ - All elements will be consistent including font size, font family, colour scheme.
 
+## Skeleton
+
+I used [Balsamiq](https://balsamiq.com/) to create my wireframes as this gives the template of the UI. This also shows where all elements will placed within the screen.
+
+There are 2 versions of each wireframe as one shows the design on a web browser and the other shows a mobile browser format.
+
+### Wire-frames
 Web browser home page
 [![index.html-web](documentation-assets/wireframe-images/index.html-web.png)](documentation-assets/wireframe-images/index.html-web.png)
 
@@ -122,10 +149,7 @@ Web browser gallery page
 Mobile browser gallery page
 [![index.html-web](documentation-assets/wireframe-images/contact-us.html-mobile.png)](documentation-assets/wireframe-images/contact-us.html-mobile.png)
 
-## Features
- * Responsive on all devices sizes
- * Navigation bar that is clear and easy to use
- * Footer on each page that links to the social media websites
+
 
 
 ### Languages Used
