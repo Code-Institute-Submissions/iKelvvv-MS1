@@ -69,6 +69,23 @@ The content should prove why Sir Alex Ferguson is the greatest manager.
 - Offering Audio
 - Consistency of design
 - Easy on the eye colour pallets
+- Dark Mode
+
+### Strategy Table
+Opportunity/Problem/Feature| Importance| Viability/Feasibility
+------------ | -------------------------|---------
+Increase awareness | 5 | 5
+Educational content | 5| 5
+Highlight achievements | 5 | 5
+Responsive design | 5 | 5
+Contact me form | 3 | 5
+Career History| 5 | 5
+Testimonials | 4 | 5
+Dark mode | 4 | 1
+Total | 40 | 36
+## Scope
+
+As i unable to
 
 ## Structure
 
