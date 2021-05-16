@@ -152,23 +152,45 @@ Mobile browser gallery page
 ## Surface
 
 ### Colours
-Please find the colours schemes that i used (here)[https://coolors.co/34495e-ffffff-e74c3c-3a3a3a-fafafa]
+Please find the colours schemes that i used [here](https://coolors.co/34495e-ffffff-e74c3c-3a3a3a-fafafa)
 
 ### Typography
 I decided to use Roboto as my font of choice with sans serf as my backup font for browsers that might not support Roboto.
 
 # Features
 
+### All pages:
+- Navigation bar is place at the top of the screen, for ease of use and consistency. It has a hover effect and changes colour to improve user experience. The page that you have selected also highlights red so the user knows exactly which page they are on.
+- Social media links, - all links are placed at the bottom of each page in the footer. All links open in a new tab.
+- Logo/text - a Sir Alex Ferguson logo is also placed on the top right of each page. This give the context that the website is about him.
 
+### Landing page
+- Main image - a large image that shows who the website is about.
+- Summary - a short summary of what Sir Alex achieved.
+- Video - an embedded tribute video from youtube that gives the user the multi media experience. This helps the user to be engaged with the website.
 
+### Career page
+- Overall statistics - a small bordered box that shows the his managerial career stats.
+- Timeline - this element shows his career in a chronological experience. Reading from the top (when he started his career) to the bottom (when he finishes his career). This section tells you which clubs he has managed and a short summary of what he achieved.
+- Club logos - These images add a visual to UI and improving UX as its not just text on the page.
 
-### Languages Used
+### Testimonials page
+- Card style view - this gives the user an easy to read card view that breaks information down to small sections. The user can read from card to card.
+- Card images - all images are of the same size, giving the UI consistency. This also gives context of who the quote was from.
+- Card quotes - short quotes about Sir Alex admiring him. These quotes are from players who played under him and other managers giving credit.
+
+### Gallery page
+- Collage images - these images are placed in a collage design. This allows me to place multiple sized images to the given screen size. The images show the success and happiness he had in the game.
+
+### Contact page
+- Contact form - this gives the user the ability to message me for any issues they are having with the site, any suggestions of improvement and and to give their opinions on any other manager that could potentially take his place.
+
+## Technologies Used
+
 * [HTML5](https://en.wikipedia.org/wiki/HTML)
   * The project uses Hyper Text Markup Language.
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
   * The project uses Cascading Style Sheets.
-
-## Technologies Used
 * [Atom](https://atom.io/)
   - The project uses Atom to code.
 * [Chrome](https://www.google.com/intl/en_uk/chrome/)
