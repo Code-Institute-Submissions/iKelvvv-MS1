@@ -22,6 +22,7 @@ nav {
   background-color: #34495e;
   border-radius: 8px;
   font-size: 0;
+  width: 33.2rem;
 }
 
 nav a {
@@ -334,7 +335,7 @@ html {
   margin-top: 1.5%;
 }
 
-#photos>img {
+#photos > img {
   width: 100%;
 }
 
@@ -343,7 +344,7 @@ html {
   margin-top: 1.5%;
   margin-left: auto;
   margin-right: auto;
-  height: 50em;
+  height: 50rem;
 }
 
 .club-logo {
@@ -365,7 +366,13 @@ html {
 
 /* footer*/
 footer {
-  height: 300px;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+#contact-footer{
+  position: absolute;
 }
 
 .social-network {
@@ -383,13 +390,15 @@ footer {
   color: #3a3a3a
 }
 
-/*contact us form*/
-.form-section {
-  clear: left;
-  background background-size: cover;
-  background-position: center;
-  height: 900px;
+
+.image-inline > img {
+  float: right;
+  border-radius: 15px;
+  margin-right: 10rem;
+  margin-top: 5rem;
 }
+
+/*contact us form*/
 
 .contact-form {
   margin: 150px 10% 0 0;
@@ -440,10 +449,6 @@ footer {
 /*media queries*/
 /*for larger to medium screen size fomr 1200px wide and down*/
 @media screen and (max-width: 1200px) {
-  .nav-heading {
-    display: block;
-  }
-
   .card {
     width: 33%;
   }
@@ -470,6 +475,10 @@ footer {
       column-count: 3;
     }
 
+    #video {
+      height: 40rem;
+    }
+
   /*for small screen sizes 800px and down*/
   @media screen and (max-width: 800px) {
     .nav-heading {
@@ -477,7 +486,6 @@ footer {
     }
 
     nav {
-      display: flex;
       margin: 0 auto;
     }
 
@@ -522,13 +530,15 @@ footer {
     .right {
       left: 0%;
     }
-  }
+
+    #video {
+      height: 35rem;
+    }
 
   /* Media queries - Responsive timeline on screens less than 600px wide */
   @media screen and (max-width: 600px) {
 
     nav {
-      display: flex;
       margin: 0 auto;
     }
 
@@ -560,4 +570,17 @@ footer {
     /* Make all right containers behave like the left ones */
     .right {
       left: 0%;
+    }
+
+    #video {
+      height: 25rem;
+    }
+
+    .image-inline{
+      all: none;
+      display: revert;
+    }
+
+    .image-inline img{
+      width: 100%;
     }
