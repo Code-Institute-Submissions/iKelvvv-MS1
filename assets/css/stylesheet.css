@@ -409,11 +409,37 @@ html {
   margin-top: 1.5%;
 }
 
+#contact_details {
+  text-align: center;
+}
+
+.contact_element {
+  display: inline-block;
+  margin: 1%;
+  padding: 3%;
+  vertical-align: top;
+}
+
+.address_word_wrap {
+  width: 14rem;
+}
+
+.word_wrap {
+  word-wrap: break-word;
+}
+
+#contact_details i {
+  font-size: 200%;
+  color: #3a3a3a
+}
+
 /* footer*/
 footer {
   bottom: 0;
   width: 100%;
   text-align: center;
+  overflow: auto;
+  display: block;
 }
 
 .social_network {
@@ -432,19 +458,16 @@ footer {
 }
 
 /*contact us form*/
-#contact_footer {
-  position: absolute;
-}
 
 .contact_form {
-  margin: 150px 10% 0 0;
   color: #fff;
   background-color: #34495e;
   max-width: 400px;
-  position: absolute;
   left: 10%;
   padding: 30px;
   border-radius: 10px;
+  margin: 0 auto;
+  margin-top: 1.5%;
 }
 
 .contact_form h2 {
