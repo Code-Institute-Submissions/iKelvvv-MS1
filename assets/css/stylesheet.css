@@ -463,7 +463,6 @@ footer {
   color: #fff;
   background-color: #34495e;
   max-width: 400px;
-  left: 10%;
   padding: 30px;
   border-radius: 10px;
   margin: 0 auto;
@@ -489,6 +488,10 @@ footer {
   border-color: #f16c6b;
 }
 
+#feedback {
+  border-radius: 5px;
+}
+
 .submit_button {
   margin-top: 20px;
   border-radius: 2px;
@@ -497,12 +500,27 @@ footer {
   font-size: 100%;
   background-color: #f16c6b;
   color: #fafafa;
-  display: block;
+  display: inline-block;
+  border-radius: 5px;
 }
 
 .submit_button:hover {
   background-color: #fafafa;
   color: #f16c6b;
+}
+
+.form_layout {
+  text-align: center;
+}
+
+#form_inline {
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+#form_inline img {
+ max-width: 500px;
+ border-radius: 10px;
 }
 
 /*media queries*/

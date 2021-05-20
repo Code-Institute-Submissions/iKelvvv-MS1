@@ -44,22 +44,29 @@
 
 
   <section>
-    <form method="POST" action="https://formdump.codeinstitute.net/" class="contact_form">
-      <h2>Contact Us</h2>
-      <label for="fname">First Name</label>
-      <input class="text_input" id="fname" name="first_name" type="text" required>
+    <div class="form_layout">
+      <div id="form_inline">
+        <form method="POST" action="https://formdump.codeinstitute.net/" class="contact_form">
+          <h2>Contact Us</h2>
+          <label for="fname">First Name</label>
+          <input class="text_input" id="fname" name="first_name" type="text" required>
 
-      <label for="lname">Last Name</label>
-      <input class="text_input" id="lname" name="last_name" type="text" required>
+          <label for="lname">Last Name</label>
+          <input class="text_input" id="lname" name="last_name" type="text" required>
 
-      <label for="email">Email Address</label>
-      <input class="text_input" type="email" id="email" name="email_address" required>
+          <label for="email">Email Address</label>
+          <input class="text_input" type="email" id="email" name="email_address" required>
 
-      <label for="feedback">Your Message</label>
-      <textarea id="feedback" rows="4" cols="40" name="feedback"></textarea>
+          <label for="feedback">Your Message</label>
+          <textarea id="feedback" rows="4" cols="40" name="feedback"></textarea>
 
-      <input type="submit" class="submit_button" value="Submit">
-    </form>
+          <input type="submit" class="submit_button" value="Submit">
+        </form>
+      </div>
+      <div id="form_inline">
+        <img src="assets/images/maps_location.png" alt="Location of address">
+      </div>
+    </div>
   </section>
 
   <footer>
