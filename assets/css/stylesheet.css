@@ -68,31 +68,31 @@ a:nth-child(5) {
   width: 6.25rem;
 }
 
-nav .start-home, a:nth-child(1):hover~.animation {
+nav .start_home, a:nth-child(1):hover~.animation {
   width: 6.25rem;
   left: 0;
   background-color: #e74c3c;
 }
 
-nav .start-career, a:nth-child(2):hover~.animation {
+nav .start_career, a:nth-child(2):hover~.animation {
   width: 6.25rem;
   left: 6.25rem;
   background-color: #e74c3c;
 }
 
-nav .start-testimonials, a:nth-child(3):hover~.animation {
+nav .start_testimonials, a:nth-child(3):hover~.animation {
   width: 8.125rem;
   left: 12.5rem;
   background-color: #e74c3c;
 }
 
-nav .start-gallery, a:nth-child(4):hover~.animation {
+nav .start_gallery, a:nth-child(4):hover~.animation {
   width: 6.25rem;
   left: 20.625rem;
   background-color: #e74c3c;
 }
 
-nav .start-contact-us, a:nth-child(5):hover~.animation {
+nav .start_contact_us, a:nth-child(5):hover~.animation {
   width: 6.25rem;
   left: 26.875rem;
   background-color: #e74c3c;
@@ -104,12 +104,12 @@ body {
   background: #fff;
 }
 
-.nav-heading {
+.nav_heading {
   display: flex;
   justify-content: space-between;
 }
 
-.nav-heading h1 {
+.nav_heading h1 {
   color: #34495e;
   text-transform: uppercase;
   margin-top: 1.5%;
@@ -117,7 +117,7 @@ body {
   font-size: 2.5rem;
 }
 
-#saf-centre {
+#saf_centre {
   margin-top: 2.5%;
   display: block;
   margin-right: auto;
@@ -134,7 +134,7 @@ body {
   margin: 0 auto;
 }
 
-#video-title {
+#video_title {
   text-align: center;
 }
 
@@ -176,28 +176,28 @@ html {
   border-radius: 25px;
 }
 
-.card-content {
+.card_content {
   display: flex;
   flex: 1 1 auto;
   flex-direction: column;
   padding: 1rem;
 }
 
-.card-title {
+.card_title {
   font-size: 1.3rem;
   font-weight: 300;
   letter-spacing: 2px;
   text-transform: uppercase;
 }
 
-.card-text {
+.card_text {
   flex: 1 1 auto;
   font-size: 1rem;
   line-height: 1.5;
   margin-bottom: 1.25rem;
 }
 
-#quote-heading {
+#quote_heading {
   margin-top: 1.5%;
   text-align: center;
   text-decoration: underline;
@@ -239,7 +239,7 @@ html {
   width: 50%;
 }
 
-.container-full {
+.container_full {
   padding: 10px 40px;
   position: relative;
   background-color: inherit;
@@ -315,20 +315,19 @@ html {
   align-items: center;
 }
 
-#stat-table {
+#stat_table {
   margin: 0 auto;
   text-align: center;
   border: 1px solid black;
   border-radius: 10px;
 }
 
-#stat-table th, td {
+#stat_table th, td {
   padding-right: 5px;
 }
 
 /* gallery */
-
-.container-photos {
+.container_photos {
   position: relative;
 }
 
@@ -352,11 +351,11 @@ html {
   text-align: center;
 }
 
-.container-photos:hover .image {
+.container_photos:hover .image {
   opacity: 0.3;
 }
 
-.container-photos:hover .middle {
+.container_photos:hover .middle {
   opacity: 1;
 }
 
@@ -399,7 +398,7 @@ html {
   width: 80%;
 }
 
-.club-logo {
+.club_logo {
   width: 40%;
   height: 40%;
   margin: 0 auto;
@@ -417,15 +416,15 @@ footer {
   text-align: center;
 }
 
-.social-network {
+.social_network {
   text-align: center;
 }
 
-.social-network li {
+.social_network li {
   display: inline;
 }
 
-.social-network i {
+.social_network i {
   font-size: 300%;
   margin: 1%;
   padding: 3%;
@@ -433,11 +432,11 @@ footer {
 }
 
 /*contact us form*/
-#contact-footer {
+#contact_footer {
   position: absolute;
 }
 
-.contact-form {
+.contact_form {
   margin: 150px 10% 0 0;
   color: #fff;
   background-color: #34495e;
@@ -448,12 +447,12 @@ footer {
   border-radius: 10px;
 }
 
-.contact-form h2 {
+.contact_form h2 {
   color: #fafafa;
   margin-bottom: 20px;
 }
 
-.text-input {
+.text_input {
   background: transparent;
   color: #fafafa;
   width: 100%;
@@ -463,11 +462,11 @@ footer {
   border-radius: 2px;
 }
 
-.text-input:hover {
+.text_input:hover {
   border-color: #f16c6b;
 }
 
-.submit-button {
+.submit_button {
   margin-top: 20px;
   border-radius: 2px;
   padding: 15px 32px 15px 32px;
@@ -478,7 +477,7 @@ footer {
   display: block;
 }
 
-.submit-button:hover {
+.submit_button:hover {
   background-color: #fafafa;
   color: #f16c6b;
 }
@@ -490,18 +489,18 @@ footer {
     width: 33%;
   }
 
-  .nav-heading h1 {
+  .nav_heading h1 {
     text-align: center;
   }
 }
 
 /*for medium screen sizes from 950px wide and down*/
 @media screen and (max-width: 950px) {
-  .nav-heading {
+  .nav_heading {
     display: block;
   }
 
-  .nav-heading h1 {
+  .nav_heading h1 {
     text-align: center;
   }
 
@@ -521,7 +520,7 @@ footer {
 
 /*for small screen sizes 800px and down*/
 @media screen and (max-width: 800px) {
-  .nav-heading {
+  .nav_heading {
     display: block;
   }
 
@@ -538,7 +537,7 @@ footer {
     max-width: 50%;
   }
 
-  .nav-heading h1 {
+  .nav_heading h1 {
     text-align: center;
   }
 
