@@ -396,6 +396,7 @@ html {
   margin-right: auto;
   height: 50rem;
   width: 80%;
+  border-radius: 5px;
 }
 
 .club_logo {
