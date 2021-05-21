@@ -331,7 +331,7 @@ html {
   position: relative;
 }
 
-.image {
+.collage {
   opacity: 1;
   display: block;
   width: 100%;
@@ -351,7 +351,7 @@ html {
   text-align: center;
 }
 
-.container_photos:hover .image {
+.container_photos:hover .collage {
   opacity: 0.3;
 }
 
@@ -360,8 +360,8 @@ html {
 }
 
 .text {
-  background-color: #34495e;
-  color: #e74c3c;
+  background-color: white;
+  color: black;
   font-size: 16px;
   padding: 16px 32px;
   opacity: 0.9;
@@ -458,7 +458,6 @@ footer {
 }
 
 /*contact us form*/
-
 .contact_form {
   color: #fff;
   background-color: #34495e;
@@ -519,8 +518,8 @@ footer {
 }
 
 #form_inline img {
- max-width: 500px;
- border-radius: 10px;
+  max-width: 500px;
+  border-radius: 10px;
 }
 
 /*media queries*/
@@ -615,6 +614,10 @@ footer {
   #video {
     height: 35rem;
   }
+
+  .map_location {
+    width: 80%;
+  }
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
@@ -660,5 +663,9 @@ footer {
 
   #video {
     height: 25rem;
+  }
+
+  .map_location {
+    width: 80%;
   }
 }
