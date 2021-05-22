@@ -20,8 +20,6 @@ A live website can be found [here](git-hub-pages-link)
   * [Skeleton](#skeleton)
   * [Surface](#surface)
 - [Features](#features)
-    + [Existing Features](#existing-features)
-    + [Features Left to Implement](#features-left-to-implement)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
 - [Development Cycle](#development-cycle)
@@ -263,9 +261,9 @@ There were many elements i changed, re-positioned and added from my original wir
  - Added icons for location, telephone number and contact email.
 
 # Known Bugs
-  - On some mobile devices the navigation bar pushes down on two lines
+  - On some mobile devices the navigation bar pushes down on two lines. This has now been rectified.
 
-## Credits
+# Credits
 
 ### Code
  * The navigation bar code came from [Code Pen](https://codepen.io/puskuruk/pen/bGbexXd)
