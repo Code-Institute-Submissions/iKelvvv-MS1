@@ -24,6 +24,7 @@ body {
   width: 100%;
   background-color: #34495e;
   position: relative;
+  z-index: 9999;
 }
 
 .active {
@@ -548,7 +549,7 @@ footer {
 }
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 635px) {
   .nav>.nav-btn {
     display: inline-block;
     position: absolute;
