@@ -269,15 +269,15 @@ I used GitHub pages to deploy this project.
 
 (OL how to do this)
 
-
-
 ## Credits
 
 ### Code
- * The navigation bar code came from [Code Pen](https://codepen.io/Patak/pen/QpLpOV/)
+ * The navigation bar code came from [Code Pen](https://codepen.io/puskuruk/pen/bGbexXd)
  * The cards view on the index.html was inspired from [Code Pen](https://codepen.io/mcraiganthony/pen/NxGxqm)
  * The timeline feature on the career.html and awards.html page was inspired from [W3Schools](https://www.w3schools.com/howto/howto_css_timeline.asp)
  * The footer code came from the Love Running projects
+ * The collage design was inspired by [W3Schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_grid_responsive)
+ * The gallery page has a hover effect on the image the code came from [W3Schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity)
 
 ### Content
  * All quotes on the index.html page came from [Planet Football](https://www.planetfootball.com/quick-reads/19-of-the-best-quotes-about-sir-alex-ferguson-such-an-iconic-person/)
