@@ -485,18 +485,22 @@ footer {
 }
 
 /*for medium screen sizes from 950px wide and down*/
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 900px) {
   .card {
     width: 50%;
   }
 
   .column {
-    flex: 33%;
-    max-width: 33%;
+    flex: 50%;
+    max-width: 50%;
   }
 
   #video {
     height: 40rem;
+  }
+
+  .map_location {
+    width: 80%;
   }
 }
 
