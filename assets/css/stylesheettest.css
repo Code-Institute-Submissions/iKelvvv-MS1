@@ -19,6 +19,7 @@ body {
 }
 
 /* Nav Bar */
+
 .nav {
   height: 50px;
   width: 100%;
@@ -31,41 +32,42 @@ body {
   color: #fff;
 }
 
-.nav>.nav-header {
+.nav > .nav-header {
   display: inline;
   float: right;
 }
 
-.nav>.nav-header>.nav-title {
+.nav > .nav-header > .nav-title {
   display: inline-block;
   font-size: 22px;
   color: #fff;
   padding: 10px 10px 10px 10px;
 }
 
-.nav>.nav-btn {
+.nav > .nav-btn {
   display: none;
 }
 
-.nav>.nav-links {
+.nav > .nav-links {
   display: inline;
   font-size: 18px;
 }
 
-.nav>.nav-links>a {
+.nav > .nav-links > a {
   display: inline-block;
   padding: 13px 10px 13px 10px;
   text-decoration: none;
   color: #efefef;
 }
 
-.nav>.nav-links>a:hover {
+.nav > .nav-links > a:hover {
   background-color: #e74c3c;
 }
 
-.nav>#nav-check {
+.nav > #nav-check {
   display: none;
 }
+
 
 #saf_centre {
   margin-top: 2.5%;
@@ -479,10 +481,12 @@ footer {
   .card {
     width: 33%;
   }
+
 }
 
 /*for medium screen sizes from 950px wide and down*/
 @media screen and (max-width: 950px) {
+
   .card {
     width: 50%;
   }
@@ -499,6 +503,8 @@ footer {
 
 /*for small screen sizes 800px and down*/
 @media screen and (max-width: 800px) {
+
+
   .card {
     width: 100%;
   }
@@ -507,6 +513,7 @@ footer {
     flex: 50%;
     max-width: 50%;
   }
+
 
   /* Place the timelime to the left */
   .timeline::after {
@@ -549,57 +556,50 @@ footer {
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
 @media screen and (max-width: 600px) {
-  .nav>.nav-btn {
-    display: inline-block;
-    position: absolute;
-    left: 0px;
-    top: 0px;
-  }
 
-  .nav>.nav-btn>label {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    padding: 13px;
-  }
-
-  .nav>.nav-btn>label:hover, .nav #nav-check:checked~.nav-btn>label {
-    background-color: #f16c6b;
-  }
-
-  .nav>.nav-btn>label>span {
-    display: block;
-    width: 25px;
-    height: 10px;
-    border-top: 2px solid #eee;
-  }
-
-  .nav>.nav-links {
-    position: absolute;
-    display: block;
-    width: 100%;
-    background-color: #34495e;
-    height: 0px;
-    transition: all 0.3s ease-in;
-    overflow-y: hidden;
-    top: 50px;
-    left: 0px;
-  }
-
-  .nav>.nav-links>a {
-    display: block;
-    width: 100%;
-  }
-
-  .nav>#nav-check:not(:checked)~.nav-links {
-    height: 0px;
-  }
-
-  .nav>#nav-check:checked~.nav-links {
-    height: calc(100vh - 50px);
-    overflow-y: auto;
-  }
-
+  .nav > .nav-btn {
+  display: inline-block;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.nav > .nav-btn > label {
+  display: inline-block;
+  width: 50px;
+  height: 50px;
+  padding: 13px;
+}
+.nav > .nav-btn > label:hover,.nav  #nav-check:checked ~ .nav-btn > label {
+  background-color: #f16c6b;
+}
+.nav > .nav-btn > label > span {
+  display: block;
+  width: 25px;
+  height: 10px;
+  border-top: 2px solid #eee;
+}
+.nav > .nav-links {
+  position: absolute;
+  display: block;
+  width: 100%;
+  background-color: #34495e;
+  height: 0px;
+  transition: all 0.3s ease-in;
+  overflow-y: hidden;
+  top: 50px;
+  left: 0px;
+}
+.nav > .nav-links > a {
+  display: block;
+  width: 100%;
+}
+.nav > #nav-check:not(:checked) ~ .nav-links {
+  height: 0px;
+}
+.nav > #nav-check:checked ~ .nav-links {
+  height: calc(100vh - 50px);
+  overflow-y: auto;
+}
   /* Place the timelime to the left */
   .timeline::after {
     left: 31px;
