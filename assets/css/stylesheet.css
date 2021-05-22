@@ -30,41 +30,43 @@ body {
 .active {
   background-color: #e74c3c;
   color: #fff;
+  height: 50px;
 }
 
-.nav>.nav-header {
+.nav>.nav_header {
   display: inline;
   float: right;
 }
 
-.nav>.nav-header>.nav-title {
+.nav>.nav_header>.nav_title {
   display: inline-block;
   font-size: 22px;
   color: #fff;
   padding: 10px 10px 10px 10px;
 }
 
-.nav>.nav-btn {
+.nav>.nav_btn {
   display: none;
 }
 
-.nav>.nav-links {
+.nav>.nav_links {
   display: inline;
   font-size: 18px;
 }
 
-.nav>.nav-links>a {
+.nav>.nav_links>a {
   display: inline-block;
   padding: 13px 10px 13px 10px;
   text-decoration: none;
   color: #efefef;
 }
 
-.nav>.nav-links>a:hover {
+.nav>.nav_links>a:hover {
   background-color: #e74c3c;
+  height: 50px;
 }
 
-.nav>#nav-check {
+.nav>#nav_check {
   display: none;
 }
 
@@ -83,6 +85,16 @@ body {
   text-align: center;
   width: 85%;
   margin: 0 auto;
+}
+
+#video {
+  display: block;
+  margin-top: 1.5%;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50rem;
+  width: 80%;
+  border-radius: 5px;
 }
 
 #video_title {
@@ -340,16 +352,6 @@ html {
   border-radius: 15px;
 }
 
-#video {
-  display: block;
-  margin-top: 1.5%;
-  margin-left: auto;
-  margin-right: auto;
-  height: 50rem;
-  width: 80%;
-  border-radius: 5px;
-}
-
 .club_logo {
   width: 40%;
   height: 40%;
@@ -436,7 +438,7 @@ footer {
 }
 
 .text_input:hover {
-  border-color: #f16c6b;
+  border-color: #e74c3c;
 }
 
 #feedback {
@@ -449,15 +451,15 @@ footer {
   padding: 15px 32px 15px 32px;
   text-align: center;
   font-size: 100%;
-  background-color: #f16c6b;
-  color: #fafafa;
+  background-color: #e74c3c;
+  color: #fff;
   display: inline-block;
   border-radius: 5px;
 }
 
 .submit_button:hover {
-  background-color: #fafafa;
-  color: #f16c6b;
+  background-color: #fff;
+  color: #e74c3c;
 }
 
 .form_layout {
@@ -550,32 +552,32 @@ footer {
 
 /* Media queries - Responsive timeline on screens less than 600px wide */
 @media screen and (max-width: 635px) {
-  .nav>.nav-btn {
+  .nav>.nav_btn {
     display: inline-block;
     position: absolute;
     left: 0px;
     top: 0px;
   }
 
-  .nav>.nav-btn>label {
+  .nav>.nav_btn>label {
     display: inline-block;
     width: 50px;
     height: 50px;
     padding: 13px;
   }
 
-  .nav>.nav-btn>label:hover, .nav #nav-check:checked~.nav-btn>label {
-    background-color: #f16c6b;
+  .nav>.nav_btn>label:hover, .nav #nav_check:checked~.nav_btn>label {
+    background-color: #e74c3c;
   }
 
-  .nav>.nav-btn>label>span {
+  .nav>.nav_btn>label>span {
     display: block;
     width: 25px;
     height: 10px;
-    border-top: 2px solid #eee;
+    border-top: 2px solid #fff;
   }
 
-  .nav>.nav-links {
+  .nav>.nav_links {
     position: absolute;
     display: block;
     width: 100%;
@@ -587,16 +589,16 @@ footer {
     left: 0px;
   }
 
-  .nav>.nav-links>a {
+  .nav>.nav_links>a {
     display: block;
     width: 100%;
   }
 
-  .nav>#nav-check:not(:checked)~.nav-links {
+  .nav>#nav_check:not(:checked)~.nav_links {
     height: 0px;
   }
 
-  .nav>#nav-check:checked~.nav-links {
+  .nav>#nav_check:checked~.nav_links {
     height: calc(100vh - 50px);
     overflow-y: auto;
   }
