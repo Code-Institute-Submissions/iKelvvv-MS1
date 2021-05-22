@@ -6,7 +6,7 @@ Welcome to my first project. This project is a history website based on Sir Alex
 
 A live website can be found [here](git-hub-pages-link)
 
-(Preview Images)
+![website screenshot](./images/responsive_screenshot.png)
 
 # Table of Contents
 - [UX](#ux)
