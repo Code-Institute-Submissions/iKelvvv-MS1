@@ -26,7 +26,6 @@ A live website can be found [here](git-hub-pages-link)
 - [Testing](#testing)
 - [Development Cycle](#development-cycle)
 - [Known Bugs](#known-bugs)
-- [Deployment](#deployment)
 - [Credits](#credits)
 # UX
 
@@ -265,12 +264,6 @@ There were many elements i changed, re-positioned and added from my original wir
 
 # Known Bugs
   - On some mobile devices the navigation bar pushes down on two lines
-
-# Deployment
-
-I used GitHub pages to deploy this project.
-
-(OL how to do this)
 
 ## Credits
 
