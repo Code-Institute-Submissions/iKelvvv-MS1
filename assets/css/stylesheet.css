@@ -98,6 +98,8 @@ body {
 }
 
 #video_title {
+  width: 85%;
+  margin: 0 auto;
   text-align: center;
 }
 
