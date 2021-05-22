@@ -202,7 +202,9 @@ I decided to use Roboto as my font of choice with sans serf as my backup font fo
 * [Google Fonts](https://fonts.google.com/)
   - Google fonts were used to import "Roboto" font into the style.css file which is used on all pages throughout the project.
 * [GitHub](https://github.com/)
-  - GitHub is used to store the projects code after being pushed from Git.
+  - GitHub was used to store the projects code after being pushed from Git.
+* [JS Fiddle](https://jsfiddle.net/)
+  - JS Fiddle was used as a playground to test all my code prior to committing.
 
 # Testing
 
@@ -228,6 +230,7 @@ I used [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) to check for a
 ## Manual Testing
 
 I have tested my site on Safari and google chrome on multiple devices.
+I also used [JS Fiddle](https://jsfiddle.net/) as a playground to test all of my code before staging and committing any changes.
 
 These include:
   - iPhone X
@@ -278,6 +281,8 @@ I used GitHub pages to deploy this project.
  * The footer code came from the Love Running projects
  * The collage design was inspired by [W3Schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_grid_responsive)
  * The gallery page has a hover effect on the image the code came from [W3Schools](https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity)
+ * The icons in the footer and contact page came from [Font Awesome](https://fontawesome.com/)
+
 
 ### Content
  * All quotes on the index.html page came from [Planet Football](https://www.planetfootball.com/quick-reads/19-of-the-best-quotes-about-sir-alex-ferguson-such-an-iconic-person/)
