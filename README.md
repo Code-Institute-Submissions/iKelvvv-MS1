@@ -4,7 +4,7 @@
 
 Welcome to my first project. This project is a history website based on Sir Alex Ferguson, many consider him to be the best football manager of all time. This website shows you why he is the one of if not the greatest football managers of all time. You will find many stats and facts about managerial.
 
-A live website can be found [here](git-hub-pages-link)
+A live website can be found [here](https://ikelvvv.github.io/MS1/)
 
 ![website preview](assets/images/responsive_screenshot.png)
 
