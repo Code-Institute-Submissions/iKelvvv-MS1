@@ -463,12 +463,12 @@ footer {
   text-align: center;
 }
 
-#form_inline {
+.form_inline {
   display: inline-block;
   vertical-align: bottom;
 }
 
-#form_inline img {
+.form_inline img {
   max-width: 500px;
   border-radius: 10px;
 }
