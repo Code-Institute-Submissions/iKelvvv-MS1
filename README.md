@@ -24,6 +24,7 @@ A live website can be found [here](git-hub-pages-link)
     + [Features Left to Implement](#features-left-to-implement)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
+- [Development Cycle](#development-cycle)
 - [Known Bugs](#known-bugs)
 - [Deployment](#deployment)
 - [Credits](#credits)
@@ -165,25 +166,25 @@ I decided to use Roboto as my font of choice with sans serf as my backup font fo
 - Social media links, - all links are placed at the bottom of each page in the footer. All links open in a new tab.
 - Logo/text - a Sir Alex Ferguson logo is also placed on the top right of each page. This give the context that the website is about him.
 
-### Landing page
+### Landing page:
 - Main image - a large image that shows who the website is about.
 - Summary - a short summary of what Sir Alex achieved.
 - Video - an embedded tribute video from youtube that gives the user the multi media experience. This helps the user to be engaged with the website.
 
-### Career page
+### Career page:
 - Overall statistics - a small bordered box that shows the his managerial career stats.
 - Timeline - this element shows his career in a chronological experience. Reading from the top (when he started his career) to the bottom (when he finishes his career). This section tells you which clubs he has managed and a short summary of what he achieved.
 - Club logos - These images add a visual to UI and improving UX as its not just text on the page.
 
-### Testimonials page
+### Testimonials page:
 - Card style view - this gives the user an easy to read card view that breaks information down to small sections. The user can read from card to card.
 - Card images - all images are of the same size, giving the UI consistency. This also gives context of who the quote was from.
 - Card quotes - short quotes about Sir Alex admiring him. These quotes are from players who played under him and other managers giving credit.
 
-### Gallery page
+### Gallery page:
 - Collage images - these images are placed in a collage design. This allows me to place multiple sized images to the given screen size. The images show the success and happiness he had in the game.
 
-### Contact page
+### Contact page:
 - Contact form - this gives the user the ability to message me for any issues they are having with the site, any suggestions of improvement and and to give their opinions on any other manager that could potentially take his place.
 
 ## Technologies Used
@@ -206,7 +207,6 @@ I decided to use Roboto as my font of choice with sans serf as my backup font fo
 # Testing
 
 ## Automated testing
-
 ### Google Developer Tools
 
 Every element that i added to my html, i would add the basic CSS in to my stylesheet. I would then use the inspect element to try different styles. Once i've got it to my liking i would copy the CSS from google into my stylesheet. This allows to keep track of the code i am using.
@@ -219,6 +219,10 @@ I used [Am I Responsive](http://ami.responsivedesign.is/) to make sure that all 
 
 I used [W3C Markup](https://validator.w3.org/#validate_by_input+with_options) to check for any errors within my HTML pages.
 
+I had an error on the index.html page with the iframe attribute of "frameborder". The HTML checker notified me that this attribute is obsolete and to use CSS instead.
+
+I also had an error on contact_us.html page with a duplicate ID of "form_inline". I rectified this by changing the ID's to a class instead and updated the CSS for this.
+
 I used [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) to check for any error within my CSS stylesheet.
 
 ## Manual Testing
@@ -230,7 +234,31 @@ These include:
   - iPhone XS Max
   - iPad Pro
   - Macbook Pro
-  - Dekstop
+
+# Development Cycle
+There were many elements i changed, re-positioned and added from my original wireframes as they were more visually appealing.
+
+### All pages:
+ - Replaced the Sir Alex Photo on the top right with just a text. This is visually more appealing because the text can fit inside the navigation bar.
+
+### Landing page:
+  - The original wireframe lacked attention from users. I added an embedded YouTube video to make the user more variety with different media elements. This video is also a short introduction of what the website is about.
+
+### Career page:
+  - I added a in a statistics panel to show the numbers Sir Alex achieved during his career.
+  - The original design shows the timeline is continuously on the left side of the page. I decided to change this to make the timeline appear on the centre of the page with the content displaying on left then right side of the page. This keeps the user engaged as the content isn't just a blocks of text.
+
+### Testimonials page:
+  - The original wireframe shows this page as an awards page with the same timeline design as the career page however, i changed this to a testimonials page. This is to give the user a better experience with a different format from the career page. As i was planning to use the same design the user would have been less engaged as they felt like they were reading the same content in the same format.
+  - I added in a cards view, this gives the user smaller amounts of content so its easy to process. The image on each card also gives context of who the quote was from.
+
+### Gallery page:
+  - The gallery page has remained the same. I added a hover animation over each photo to give context of what the image is about.
+
+### Contact page:
+ - After coding the contact page to the original design. I thought that is looked dull, so i added in other elements to make this page visually appealing to the users.
+ - Added google maps location
+ - Added icons for location, telephone number and contact email.
 
 # Known Bugs
   - On some mobile devices the navigation bar pushes down on two lines
