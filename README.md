@@ -279,10 +279,19 @@ I used GitHub pages to deploy my final project. To do this i had to:
 
   Please fine below a screenshot of each page:
 
+  Home page UI:
   ![home page preview](assets/images/home_end_product)
+
+  Career page UI:
   ![career page preview](assets/images/career_end_product)
+
+  Testimonials page UI:
   ![testimonials page preview](assets/images/testimonials_end_product)
+
+  Gallery page UI:
   ![gallery page preview](assets/images/gallery_end_product)
+
+  Contact page UI:
   ![contact page preview](assets/images/contact_end_product)
 
 # Known Bugs
