@@ -654,4 +654,12 @@ footer {
   .map_location {
     width: 80%;
   }
+
+  #stats_table tr {
+    font-size: 0.8rem;
+  }
+
+  #stats_table h2 {
+    font-size: 1rem;
+  }
 }
