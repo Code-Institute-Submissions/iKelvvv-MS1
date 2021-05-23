@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
 
+/* Global */
 * {
   margin: 0;
   padding: 0;
@@ -18,7 +19,13 @@ body {
   background: #fff;
 }
 
-/* Nav Bar */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Navigation bar */
 .nav {
   height: 50px;
   width: 100%;
@@ -70,6 +77,7 @@ body {
   display: none;
 }
 
+/* Home page - saf (Sir Alex Ferguson) */
 #saf_centre {
   margin-top: 2.5%;
   display: block;
@@ -103,17 +111,131 @@ body {
   text-align: center;
 }
 
-/* Home Page cards */
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
+/* Career page - timeline */
+.timeline {
+  position: relative;
+  width: 97%;
+  margin: 0 auto;
+  background-color: #34495e;
+  margin-top: 1.5%;
+  border-radius: 25px;
+  padding-bottom: 1.5%;
 }
 
-html {
-  background-color: #f0f0f0;
+.timeline::after {
+  content: '';
+  position: absolute;
+  width: 6px;
+  background-color: #fff;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  margin-left: -3px;
 }
 
+.container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  width: 50%;
+}
+
+.container::after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  right: -17px;
+  background-color: #fff;
+  border: 4px solid #e74c3c;
+  top: 15px;
+  border-radius: 50%;
+  z-index: 1;
+}
+
+.left {
+  left: 0;
+  border-radius: 25px;
+}
+
+.right {
+  left: 50%;
+  border-radius: 25px;
+}
+
+.left::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  right: 30px;
+  border: medium solid #fff;
+  border-width: 10px 0 10px 10px;
+  border-color: transparent transparent transparent #fff;
+}
+
+.right::before {
+  content: " ";
+  height: 0;
+  position: absolute;
+  top: 22px;
+  width: 0;
+  z-index: 1;
+  left: 30px;
+  border: medium solid #fff;
+  border-width: 10px 10px 10px 0;
+  border-color: transparent #fff transparent transparent;
+}
+
+.right::after {
+  left: -16px;
+}
+
+/* Careers page - content */
+.career_content {
+  padding: 20px 30px;
+  background-color: #fff;
+  position: relative;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+}
+
+#stats_container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
+  margin: 0 auto;
+}
+
+#stats_table {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+#stats_table th, td {
+  padding-right: 5px;
+}
+
+#stats_table table {
+  margin: 0 auto;
+}
+
+.club_logo {
+  width: 40%;
+  height: 40%;
+  margin: 0 auto;
+  display: block;
+}
+
+.career_content h3, p {
+  margin-top: 1.5%;
+}
+
+/* Testimonials page - cards view */
 .cards img {
   height: auto;
   max-width: 100%;
@@ -168,133 +290,7 @@ html {
   text-decoration: underline;
 }
 
-/* Timeline */
-* {
-  box-sizing: border-box;
-}
-
-/* The actual timeline (the vertical ruler) */
-.timeline {
-  position: relative;
-  width: 97%;
-  margin: 0 auto;
-  background-color: #34495e;
-  margin-top: 1.5%;
-  border-radius: 25px;
-  padding-bottom: 1.5%;
-}
-
-/* The actual timeline (the vertical ruler) */
-.timeline::after {
-  content: '';
-  position: absolute;
-  width: 6px;
-  background-color: #fff;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  margin-left: -3px;
-}
-
-/* Container around content */
-.container {
-  padding: 10px 40px;
-  position: relative;
-  background-color: inherit;
-  width: 50%;
-}
-
-/* The circles on the timeline */
-.container::after {
-  content: '';
-  position: absolute;
-  width: 25px;
-  height: 25px;
-  right: -17px;
-  background-color: #fff;
-  border: 4px solid #e74c3c;
-  top: 15px;
-  border-radius: 50%;
-  z-index: 1;
-}
-
-/* Place the container to the left */
-.left {
-  left: 0;
-  border-radius: 25px;
-}
-
-/* Place the container to the right */
-.right {
-  left: 50%;
-  border-radius: 25px;
-}
-
-/* Add arrows to the left container (pointing right) */
-.left::before {
-  content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 1;
-  right: 30px;
-  border: medium solid #fff;
-  border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #fff;
-}
-
-/* Add arrows to the right container (pointing left) */
-.right::before {
-  content: " ";
-  height: 0;
-  position: absolute;
-  top: 22px;
-  width: 0;
-  z-index: 1;
-  left: 30px;
-  border: medium solid #fff;
-  border-width: 10px 10px 10px 0;
-  border-color: transparent #fff transparent transparent;
-}
-
-/* Fix the circle for containers on the right side */
-.right::after {
-  left: -16px;
-}
-
-/* The actual content */
-.content {
-  padding: 20px 30px;
-  background-color: #fff;
-  position: relative;
-  border-radius: 6px;
-  display: flex;
-  align-items: center;
-}
-
-#stats_container {
-  padding: 10px 40px;
-  position: relative;
-  background-color: inherit;
-  margin: 0 auto;
-}
-
-#stats_table {
-  text-align: center;
-  border: 1px solid black;
-  border-radius: 10px;
-}
-
-#stats_table th, td {
-  padding-right: 5px;
-}
-
-#stats_table table {
-  margin: 0 auto;
-}
-
-/* gallery */
+/* Gallery page - collage photos */
 .container_photos {
   position: relative;
 }
@@ -328,8 +324,8 @@ html {
 }
 
 .collage_text {
-  background-color: white;
-  color: black;
+  background-color: #fff;
+  color: #000;
   font-size: 16px;
   padding: 16px 32px;
   opacity: 0.9;
@@ -343,7 +339,6 @@ html {
   padding: 0 4px;
 }
 
-/* Create four equal columns that sits next to each other */
 .column {
   flex: 25%;
   max-width: 25%;
@@ -357,17 +352,7 @@ html {
   border-radius: 15px;
 }
 
-.club_logo {
-  width: 40%;
-  height: 40%;
-  margin: 0 auto;
-  display: block;
-}
-
-.content h3, p {
-  margin-top: 1.5%;
-}
-
+/* Contact_us page */
 #contact_details {
   text-align: center;
 }
@@ -392,31 +377,6 @@ html {
   color: #3a3a3a
 }
 
-/* footer*/
-footer {
-  bottom: 0;
-  width: 100%;
-  text-align: center;
-  overflow: auto;
-  display: block;
-}
-
-.social_network {
-  text-align: center;
-}
-
-.social_network li {
-  display: inline;
-}
-
-.social_network i {
-  font-size: 300%;
-  margin: 1%;
-  padding: 3%;
-  color: #3a3a3a
-}
-
-/*contact us form*/
 .contact_form {
   color: #fff;
   background-color: #34495e;
@@ -490,15 +450,38 @@ footer {
   border-radius: 10px;
 }
 
-/*media queries*/
-/*for larger to medium screen size fomr 1200px wide and down*/
+/* Footer */
+footer {
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  overflow: auto;
+  display: block;
+}
+
+.social_network {
+  text-align: center;
+}
+
+.social_network li {
+  display: inline;
+}
+
+.social_network i {
+  font-size: 300%;
+  margin: 1%;
+  padding: 3%;
+  color: #3a3a3a
+}
+
+/* Media query max width 1200px */
 @media screen and (max-width: 1200px) {
   .card {
     width: 33%;
   }
 }
 
-/*for medium screen sizes from 950px wide and down*/
+/* Media query max width 900px */
 @media screen and (max-width: 900px) {
   .card {
     width: 50%;
@@ -518,7 +501,7 @@ footer {
   }
 }
 
-/*for small screen sizes 800px and down*/
+/* Media query max width 800px */
 @media screen and (max-width: 800px) {
   .card {
     width: 100%;
@@ -529,19 +512,16 @@ footer {
     max-width: 50%;
   }
 
-  /* Place the timelime to the left */
   .timeline::after {
     left: 31px;
   }
 
-  /* Full-width containers */
   .container {
     width: 100%;
     padding-left: 70px;
     padding-right: 25px;
   }
 
-  /* Make sure that all arrows are pointing leftwards */
   .container::before {
     left: 60px;
     border: medium solid #fff;
@@ -549,12 +529,10 @@ footer {
     border-color: transparent #fff transparent transparent;
   }
 
-  /* Make sure all circles are at the same spot */
   .left::after, .right::after {
     left: 15px;
   }
 
-  /* Make all right containers behave like the left ones */
   .right {
     left: 0%;
   }
@@ -568,7 +546,7 @@ footer {
   }
 }
 
-/* Media queries - Responsive timeline on screens less than 600px wide */
+/* Media query max width 635px */
 @media screen and (max-width: 635px) {
   .nav>.nav_btn {
     display: inline-block;
@@ -621,19 +599,16 @@ footer {
     overflow-y: auto;
   }
 
-  /* Place the timelime to the left */
   .timeline::after {
     left: 31px;
   }
 
-  /* Full-width containers */
   .container {
     width: 100%;
     padding-left: 70px;
     padding-right: 25px;
   }
 
-  /* Make sure that all arrows are pointing leftwards */
   .container::before {
     left: 60px;
     border: medium solid #fff;
@@ -641,12 +616,10 @@ footer {
     border-color: transparent #fff transparent transparent;
   }
 
-  /* Make sure all circles are at the same spot */
   .left::after, .right::after {
     left: 15px;
   }
 
-  /* Make all right containers behave like the left ones */
   .right {
     left: 0%;
   }
