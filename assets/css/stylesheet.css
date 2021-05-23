@@ -204,13 +204,6 @@ html {
   width: 50%;
 }
 
-#stats_container {
-  padding: 10px 40px;
-  position: relative;
-  background-color: inherit;
-  width: 100%;
-}
-
 /* The circles on the timeline */
 .container::after {
   content: '';
@@ -280,15 +273,25 @@ html {
   align-items: center;
 }
 
-#stat_table {
+#stats_container {
+  padding: 10px 40px;
+  position: relative;
+  background-color: inherit;
   margin: 0 auto;
+}
+
+#stats_table {
   text-align: center;
   border: 1px solid black;
   border-radius: 10px;
 }
 
-#stat_table th, td {
+#stats_table th, td {
   padding-right: 5px;
+}
+
+#stats_table table {
+  margin: 0 auto;
 }
 
 /* gallery */
