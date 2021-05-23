@@ -295,8 +295,12 @@ I used GitHub pages to deploy my final project. To do this i had to:
   ![contact page preview](assets/images/contact_end_product)
 
 # Known Bugs
-  - On some mobile devices the navigation bar pushes down on two lines. This has now been rectified.
-  - The form styling on some mobile devices do not match the web styles.
+  - On some mobile devices the navigation bar appears behind the content. This was rectified by adding a z-index to the CSS for the navigation bar.
+  - My first implementation of the  navigation bar was not responsive on mobile devices, meaning that the design was floating off the screen. This was rectified by implementing a new nav bar that included a hamburger style button when the screen size gets smaller.
+  - The form styling on some mobile devices do not match the web styles. This was rectified by adding webkit appearance, appearance in the CSS and set the value to none.
+  - The video on the home page was not responsive. This was fixed by adding a height value in the CSS in smaller media queries.
+  - The managerial career stats section was also not responsive. This was fixed by adding a smaller font-size value to the media query of max-width 635px. This allowed the whole section to be visible on mobile devices.
+  -
 
 # Credits
 
