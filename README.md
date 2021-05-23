@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my first project. This project is a history website based on Sir Alex Ferguson, many consider him to be the best football manager of all time. This website shows you why he is the one of if not the greatest football managers of all time. You will find many stats and facts about managerial.
+Welcome to my first project. This project is a history website based on Sir Alex Ferguson, many consider him to be the best football manager of all time. This website shows you why he is one of if not the greatest football managers of all time. You will find many stats and facts about managerial.
 
 A live website can be found [here](https://ikelvvv.github.io/MS1/)
 
@@ -29,15 +29,15 @@ A live website can be found [here](https://ikelvvv.github.io/MS1/)
 - [Credits](#credits)
 # UX
 
-As a big football and Manchester United fan, I have always seen articles on why Sir Alex Ferguson is the greatest manager ever. However, I have not come across of a dedicated website to showcase his whole career.
+As a big football and Manchester United fan, I have always seen articles on why Sir Alex Ferguson is the greatest manager ever. However, I have not come across a dedicated website to showcase his whole career.
 
-This project will showcase statistics and facts that proves that his legacy was one of the greatest of all time.
+This project will showcase statistics and facts that prove that his legacy was one of the greatest of all time.
 
 ## Strategy
 
 ### Project Goals
 
-The main goal for this website is show more awareness of this man. I want to teach the target audience of why he is rated so highly by his peers and colleagues.
+The main goal of this website is to show more awareness of this man. I want to teach the target audience why he is rated so highly by his peers and colleagues.
 
 ### User Goals:
  * First Time Visitor Goals
@@ -45,13 +45,13 @@ The main goal for this website is show more awareness of this man. I want to tea
 
     - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
 
-    - As a First Time Visitor, I want to look for statistics and facts to tell my why he's proven to be the greatest of all time.
+    - As a First Time Visitor, I want to look for statistics and facts to tell me why he's proven to be the greatest of all time.
 
  * Returning Visitor Goals
 
     - As a Returning Visitor, I want to find information about Sir Alex Ferguson.
 
-    - As a Returning Visitor, I want to find the best way to get in contact the organisation with any questions I may have.
+    - As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
 
 * Frequent User Goals
 
@@ -63,7 +63,7 @@ The main goal for this website is show more awareness of this man. I want to tea
 The content should prove why Sir Alex Ferguson is the greatest manager.
 - The content is displayed in a clear and understanding format.
 - The user interface is easy to navigate.
-- The website is responsive on all devices this includes mobile, table and desktop.
+- The website is responsive on all devices this includes mobile, tablet and desktop.
 - To have the ability to contact the creator of the website.
 
 ### Trends of modern websites:
@@ -89,7 +89,7 @@ Total | 41 | 38
 
 ## Scope
 
-As I unable to include all of the features from the strategy table. I will phase this project in multiple phases. Phase 1 will be what i have identified as a minimum viable product. Please find below the plans i have for each phase.
+As I am unable to include all of the features from the strategy table. I will phase this project in multiple phases. Phase 1 will be what I have identified as a minimum viable product. Please find below the plans I have for each phase.
 
 ### Phase 1
 - Add educational content
@@ -109,13 +109,13 @@ As I unable to include all of the features from the strategy table. I will phase
 It is really important to include responsive design in this project as many users are using different devices (mobile, tablet, laptop/PC). This gives the user the best experience on their device.
 
  - Responsive on all devices sizes
- - Navigation bar that is placed on the top left of the screen and is clear and easy to use. This is also placed in the    same position on every page.
+ - Navigation bar is placed on the top left of the screen and is clear and easy to use. This is also placed in the same position on every page.
  - Footer at the bottom of each page that links to the social media websites.
  - All elements will be consistent including font size, font family, colour scheme.
 
 ## Skeleton
 
-I used [Balsamiq](https://balsamiq.com/) to create my wireframes as this gives the template of the UI. This also shows where all elements will placed within the screen.
+I used [Balsamiq](https://balsamiq.com/) to create my wireframes as this gives the template of the UI. This also shows where all elements will be placed within the screen.
 
 There are 2 versions of each wireframe as one shows the design on a web browser and the other shows a mobile browser format.
 
@@ -153,7 +153,7 @@ Mobile browser gallery page
 ## Surface
 
 ### Colours
-Please find the colours schemes that i used [here](https://coolors.co/34495e-ffffff-e74c3c-3a3a3a-fafafa).
+Please find the colours schemes that I used [here](https://coolors.co/34495e-ffffff-e74c3c-3a3a3a-fafafa).
 
 ### Typography
 I decided to use Roboto as my font of choice with sans serf as my backup font for browsers that might not support Roboto.
@@ -161,35 +161,35 @@ I decided to use Roboto as my font of choice with sans serf as my backup font fo
 # Features
 
 ### All pages:
-- Navigation bar is place at the top of the screen, for ease of use and consistency. It has a hover effect and changes colour to improve user experience. The page that you have selected also highlights red so the user knows exactly which page they are on.
+- Navigation bar is placed at the top of the screen, for ease of use and consistency. It has a hover effect and changes colour to improve the user experience. The page that you have selected also highlights red so the user knows exactly which page they are on.
 - Social media links, - all links are placed at the bottom of each page in the footer. All links open in a new tab.
-- Logo/text - a Sir Alex Ferguson logo is also placed on the top right of each page. This give the context that the website is about him.
+- Logo/text - a Sir Alex Ferguson logo is also placed on the top right of each page. This gives the context that the website is about him.
 
 ### Landing page:
 - Main image - a large image that shows who the website is about.
-- Summary - a short summary of what Sir Alex achieved.
-- Video - an embedded tribute video from youtube that gives the user the multi media experience. This helps the user to be engaged with the website.
+- Summary - a summary of what Sir Alex achieved.
+- Video - an embedded tribute video from youtube that gives the user the multimedia experience. This helps the user to be engaged with the website.
 
 ### Career page:
-- Overall statistics - a small bordered box that shows the his managerial career stats.
-- Timeline - this element shows his career in a chronological experience. Reading from the top (when he started his career) to the bottom (when he finishes his career). This section tells you which clubs he has managed and a short summary of what he achieved.
-- Club logos - These images add a visual to UI and improving UX as its not just text on the page.
+- Overall statistics - a small bordered box that shows his managerial career stats.
+- Timeline - this element shows his career in a chronological experience. Reading from the top (when he started his career) to the bottom (when he finishes his career). This section tells you which clubs he has managed and a summary of what he achieved.
+- Club logos - These images add a visual to UI and improving UX as it's not just text on the page.
 
 ### Testimonials page:
-- Card style view - this gives the user an easy to read card view that breaks information down to small sections. The user can read from card to card.
-- Card images - all images are of the same size, giving the UI consistency. This also gives context of who the quote was from.
+- Card style view - this gives the user an easy to read card view that breaks information down into small sections. The user can read from card to card.
+- Card images - all images are of the same size, giving the UI consistency. This also gives the context of who the quote was from.
 - Card quotes - short quotes about Sir Alex admiring him. These quotes are from players who played under him and other managers giving credit.
 
 ### Gallery page:
 - Collage images - these images are placed in a collage design. This allows me to place multiple sized images to the given screen size. The images show the success and happiness he had in the game.
 
 ### Contact page:
-- Contact form - this gives the user the ability to message me for any issues they are having with the site, any suggestions of improvement and and to give their opinions on any other manager that could potentially take his place.
+- Contact form - this gives the user the ability to message me for any issues they are having with the site, any suggestions of improvement and to give their opinions on any other manager that could potentially take his place.
 
 ## Technologies Used
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML)
-  * The project uses Hyper Text Markup Language.
+  * The project uses HyperText Markup Language.
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
   * The project uses Cascading Style Sheets.
 * [Atom](https://atom.io/)
@@ -199,18 +199,18 @@ I decided to use Roboto as my font of choice with sans serf as my backup font fo
 * [Balsamiq](https://balsamiq.com/)
   - Balsamiq was used to create the wireframes during the design process.
 * [Google Fonts](https://fonts.google.com/)
-  - Google fonts were used to import "Roboto" font into the style.css file which is used on all pages throughout the project.
+  - Google fonts were used to import the "Roboto" font into the style.css file which is used on all pages throughout the project.
 * [GitHub](https://github.com/)
-  - GitHub was used to store the projects code after being pushed from Git.
+  - GitHub was used to store the project's code after being pushed from Git.
 * [JS Fiddle](https://jsfiddle.net/)
-  - JS Fiddle was used as a playground to test all my code prior to committing.
+  - JS Fiddle was used as a playground to test all my code before committing.
 
 # Testing
 
 ## Automated testing
 ### Google Developer Tools
 
-Every element that i added to my html, i would add the basic CSS in to my stylesheet. I would then use the inspect element to try different styles. Once i've got it to my liking i would copy the CSS from google into my stylesheet. This allows to keep track of the code i am using.
+For every element that I added to my HTML, I would add the basic CSS to my stylesheet. I would then use the inspect element to try different styles. Once I've got it to my liking I would copy the CSS from google into my stylesheet. This allows me to keep track of the code I am using.
 
 ### Responsive Tools
 
@@ -222,7 +222,7 @@ I used [W3C Markup](https://validator.w3.org/#validate_by_input+with_options) to
 
 I had an error on the index.html page with the iframe attribute of "frameborder". The HTML checker notified me that this attribute is obsolete and to use CSS instead.
 
-I also had an error on contact_us.html page with a duplicate ID of "form_inline". I rectified this by changing the ID's to a class instead and updated the CSS for this.
+I also had an error on the contact_us.html page with a duplicate ID of "form_inline". I rectified this by changing the ID's to a class instead and updated the CSS for this.
 
 I used [W3C CSS Validation](https://jigsaw.w3.org/css-validator/) to check for any error within my CSS stylesheet.
 
@@ -238,41 +238,41 @@ These include:
   - Macbook Pro
 
 # Development Cycle
-There were many elements i changed, re-positioned and added from my original wireframes as they were more visually appealing.
+There were many elements I changed, re-positioned and added from my original wireframes as they were more visually appealing.
 
 ### All pages:
  - Replaced the Sir Alex Photo on the top right with just a text. This is visually more appealing because the text can fit inside the navigation bar.
 
 ### Landing page:
-  - The original wireframe lacked attention from users. I added an embedded YouTube video to make the user more variety with different media elements. This video is also a short introduction of what the website is about.
+  - The original wireframe lacked attention from users. I added an embedded YouTube video to make the user more variety with different media elements. This video is also a short introduction to what the website is about.
 
 ### Career page:
-  - I added a in a statistics panel to show the numbers Sir Alex achieved during his career.
-  - The original design shows the timeline is continuously on the left side of the page. I decided to change this to make the timeline appear on the centre of the page with the content displaying on left then right side of the page. This keeps the user engaged as the content isn't just a blocks of text.
+  - I added a statistics panel to show the numbers Sir Alex achieved during his career.
+  - The original design shows the timeline is continuously on the left side of the page. I decided to change this to make the timeline appear on the centre of the page with the content displaying on the left then the right side of the page. This keeps the user engaged as the content isn't just a block of text.
 
 ### Testimonials page:
-  - The original wireframe shows this page as an awards page with the same timeline design as the career page however, i changed this to a testimonials page. This is to give the user a better experience with a different format from the career page. As i was planning to use the same design the user would have been less engaged as they felt like they were reading the same content in the same format.
-  - I added in a cards view, this gives the user smaller amounts of content so its easy to process. The image on each card also gives context of who the quote was from.
+  - The original wireframe shows this page as an awards page with the same timeline design as the career page however, I changed this to a testimonials page. This is to give the user a better experience with a different format from the career page. As I was planning to use the same design the user would have been less engaged as they felt like they were reading the same content in the same format.
+  - I added in a cards view, this gives the user smaller amounts of content so it's easy to process. The image on each card also gives the context of who the quote was from.
 
 ### Gallery page:
-  - The gallery page has remained the same. I added a hover animation over each photo to give context of what the image is about.
+  - The gallery page has remained the same. I added a hover animation over each photo to give the context of what the image is about.
 
 ### Contact page:
- - After coding the contact page to the original design. I thought that is looked dull, so i added in other elements to make this page visually appealing to the users.
+ - After coding the contact page to the original design. I thought that it looked dull, so I added other elements to make this page visually appealing to the users.
  - Added google maps location
  - Added icons for location, telephone number and contact email.
 
 # Deployment
-I used GitHub pages to deploy my final project. To do this i had to:
+I used GitHub pages to deploy my final project. To do this I had to:
 
 1. Create a repository on GitHub.
 2. Clone the repository on your chosen source code editor (Atom in my case) using the clone link.
 4. Add files to Git (staging area) and use the atom commit to master button.
-5. Use the git within atom to push the code.
+5. Use git within atom to push the code.
 7. Go to GitHub and load your repository.
 8. Select settings.
 9. Select pages on the left menu bar.
-10. Click on master branch.
+10. Click on the master branch.
 11. This will now generate a link with your website live.
 
 # End Product
@@ -296,8 +296,8 @@ I used GitHub pages to deploy my final project. To do this i had to:
 
 # Known Bugs
   - On some mobile devices the navigation bar appears behind the content. This was rectified by adding a z-index to the CSS for the navigation bar.
-  - My first implementation of the  navigation bar was not responsive on mobile devices, meaning that the design was floating off the screen. This was rectified by implementing a new nav bar that included a hamburger style button when the screen size gets smaller.
-  - The form styling on some mobile devices do not match the web styles. This was rectified by adding webkit appearance, appearance in the CSS and set the value to none.
+  - My first implementation of the navigation bar was not responsive on mobile devices, meaning that the design was floating off the screen. This was rectified by implementing a new navbar that included a hamburger style button when the screen size gets smaller.
+  - The form styling on some mobile devices do not match the web styles. This was rectified by adding WebKit appearance, appearance in the CSS and set the value to none.
   - The video on the home page was not responsive. This was fixed by adding a height value in the CSS in smaller media queries.
   - The managerial career stats section was also not responsive. This was fixed by adding a smaller font-size value to the media query of max-width 635px. This allowed the whole section to be visible on mobile devices.
   -
