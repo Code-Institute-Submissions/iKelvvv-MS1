@@ -23,6 +23,7 @@ A live website can be found [here](https://ikelvvv.github.io/MS1/)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
 - [Development Cycle](#development-cycle)
+- [End Product](#end-product)
 - [Known Bugs](#known-bugs)
 - [Credits](#credits)
 # UX
@@ -259,6 +260,16 @@ There were many elements i changed, re-positioned and added from my original wir
  - After coding the contact page to the original design. I thought that is looked dull, so i added in other elements to make this page visually appealing to the users.
  - Added google maps location
  - Added icons for location, telephone number and contact email.
+
+# End Product
+
+  Please fine below a screenshot of each page:
+
+  ![home page preview](assets/images/home_end_product)
+  ![career page preview](assets/images/career_end_product)
+  ![testimonials page preview](assets/images/testimonials_end_product)
+  ![gallery page preview](assets/images/gallery_end_product)
+  ![contact page preview](assets/images/contact_end_product)
 
 # Known Bugs
   - On some mobile devices the navigation bar pushes down on two lines. This has now been rectified.
