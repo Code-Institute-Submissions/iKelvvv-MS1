@@ -23,6 +23,7 @@ A live website can be found [here](https://ikelvvv.github.io/MS1/)
 - [Technologies Used](#technologies-used)
 - [Testing](#testing)
 - [Development Cycle](#development-cycle)
+- [Deployment](#deployment)
 - [End Product](#end-product)
 - [Known Bugs](#known-bugs)
 - [Credits](#credits)
@@ -260,6 +261,19 @@ There were many elements i changed, re-positioned and added from my original wir
  - After coding the contact page to the original design. I thought that is looked dull, so i added in other elements to make this page visually appealing to the users.
  - Added google maps location
  - Added icons for location, telephone number and contact email.
+
+# Deployment
+I used GitHub pages to deploy my final project. To do this i had to:
+
+1. Create a repository on GitHub.
+2. Clone the repository on your chosen source code editor (Atom in my case) using the clone link.
+4. Add files to Git (staging area) and use the atom commit to master button.
+5. Use the git within atom to push the code.
+7. Go to GitHub and load your repository.
+8. Select settings.
+9. Select pages on the left menu bar.
+10. Click on master branch.
+11. This will now generate a link with your website live.
 
 # End Product
 
