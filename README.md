@@ -262,6 +262,7 @@ There were many elements i changed, re-positioned and added from my original wir
 
 # Known Bugs
   - On some mobile devices the navigation bar pushes down on two lines. This has now been rectified.
+  - The form styling on some mobile devices do not match the web styles.
 
 # Credits
 
