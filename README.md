@@ -4,36 +4,41 @@
 
 Welcome to my first project. This project is a history website based on Sir Alex Ferguson, many consider him to be the best football manager of all time. This website shows you why he is one of if not the greatest football managers of all time. You will find many stats and facts about managerial.
 
-A live website can be found [here](https://ikelvvv.github.io/MS1/)
+A live website can be found [here](https://ikelvvv.github.io/MS1/).
 
 ![website preview](assets/images/responsive_screenshot.png)
 
 # Table of Contents
-- [UX](#ux)
-  * [Strategy](#strategy)
+- [1. UX](#ux)
+  * [1.1. Strategy](#strategy)
     + [Project Goals](#project-goals)
       - [User Goals:](#user-goals)
       - [User Expectations:](#user-expectations)
       - [Trends of Modern Websites](#trends-of-modern-websites)
       - [Strategy Table](#strategy-table)
-  * [Structure](#structure)
-  * [Skeleton](#skeleton)
-  * [Surface](#surface)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Testing](#testing)
-- [Development Cycle](#development-cycle)
-- [Deployment](#deployment)
-- [End Product](#end-product)
-- [Known Bugs](#known-bugs)
-- [Credits](#credits)
-# UX
+  * [1.2. Structure](#structure)
+  * [1.3. Skeleton](#skeleton)
+  * [1.4. Surface](#surface)
+- [2. Features](#features)
+- [3. Technologies Used](#technologies-used)
+- [4. Testing](#testing)
+- [5. Development Cycle](#development-cycle)
+- [6. Deployment](#deployment)
+- [7. End Product](#end-product)
+- [8. Known Bugs](#known-bugs)
+- [9. Credits](#credits)
+
+<a name="ux"></a>
+# 1. UX
+  [Go to the top](#table-of-contents)
 
 As a big football and Manchester United fan, I have always seen articles on why Sir Alex Ferguson is the greatest manager ever. However, I have not come across a dedicated website to showcase his whole career.
 
 This project will showcase statistics and facts that prove that his legacy was one of the greatest of all time.
 
-## Strategy
+<a name="strategy"></a>
+## 1.1. Strategy
+  [Go to the top](#table-of-contents)
 
 ### Project Goals
 
@@ -104,7 +109,9 @@ As I am unable to include all of the features from the strategy table. I will ph
 - Dark Mode
 - Honourable mentions
 
-## Structure
+<a name="structure"></a>
+## 1.2. Structure
+  [Go to the top](#table-of-contents)
 
 It is really important to include responsive design in this project as many users are using different devices (mobile, tablet, laptop/PC). This gives the user the best experience on their device.
 
@@ -113,7 +120,9 @@ It is really important to include responsive design in this project as many user
  - Footer at the bottom of each page that links to the social media websites.
  - All elements will be consistent including font size, font family, colour scheme.
 
-## Skeleton
+<a name="skeleton"></a>
+## 1.3. Skeleton
+  [Go to the top](#table-of-contents)
 
 I used [Balsamiq](https://balsamiq.com/) to create my wireframes as this gives the template of the UI. This also shows where all elements will be placed within the screen.
 
@@ -150,7 +159,9 @@ Web browser gallery page
 Mobile browser gallery page
 [![index.html-web](documentation-assets/wireframe-images/contact-us.html-mobile.png)](documentation-assets/wireframe-images/contact-us.html-mobile.png)
 
-## Surface
+<a name="surface"></a>
+## 1.4. Surface
+  [Go to the top](#table-of-contents)
 
 ### Colours
 Please find the colours schemes that I used [here](https://coolors.co/34495e-ffffff-e74c3c-3a3a3a-fafafa).
@@ -158,7 +169,9 @@ Please find the colours schemes that I used [here](https://coolors.co/34495e-fff
 ### Typography
 I decided to use Roboto as my font of choice with sans serf as my backup font for browsers that might not support Roboto.
 
-# Features
+<a name="features"></a>
+# 2. Features
+  [Go to the top](#table-of-contents)
 
 ### All pages:
 - Navigation bar is placed at the top of the screen, for ease of use and consistency. It has a hover effect and changes colour to improve the user experience. The page that you have selected also highlights red so the user knows exactly which page they are on.
@@ -186,7 +199,9 @@ I decided to use Roboto as my font of choice with sans serf as my backup font fo
 ### Contact page:
 - Contact form - this gives the user the ability to message me for any issues they are having with the site, any suggestions of improvement and to give their opinions on any other manager that could potentially take his place.
 
-## Technologies Used
+<a name="technologies-used"></a>
+## 3. Technologies Used
+  [Go to the top](#table-of-contents)
 
 * [HTML5](https://en.wikipedia.org/wiki/HTML)
   * The project uses HyperText Markup Language.
@@ -205,7 +220,9 @@ I decided to use Roboto as my font of choice with sans serf as my backup font fo
 * [JS Fiddle](https://jsfiddle.net/)
   - JS Fiddle was used as a playground to test all my code before committing.
 
-# Testing
+<a name="testing"></a>
+# 4. Testing
+  [Go to the top](#table-of-contents)
 
 ## Automated testing
 ### Google Developer Tools
@@ -237,7 +254,10 @@ These include:
   - iPad Pro
   - Macbook Pro
 
-# Development Cycle
+<a name="development-cycle"></a>
+# 5. Development Cycle
+  [Go to the top](#table-of-contents)
+
 There were many elements I changed, re-positioned and added from my original wireframes as they were more visually appealing.
 
 ### All pages:
@@ -262,7 +282,10 @@ There were many elements I changed, re-positioned and added from my original wir
  - Added google maps location
  - Added icons for location, telephone number and contact email.
 
-# Deployment
+<a name="deployment"></a>
+# 6. Deployment
+  [Go to the top](#table-of-contents)
+
 I used GitHub pages to deploy my final project. To do this I had to:
 
 1. Create a repository on GitHub.
@@ -275,7 +298,9 @@ I used GitHub pages to deploy my final project. To do this I had to:
 10. Click on the master branch.
 11. This will now generate a link with your website live.
 
-# End Product
+<a name="end-product"></a>
+# 7. End Product
+  [Go to the top](#table-of-contents)
 
   Please fine below a screenshot of each page:
 
@@ -294,15 +319,19 @@ I used GitHub pages to deploy my final project. To do this I had to:
   Contact page UI:
   ![contact page preview](assets/images/contact_end_product)
 
-# Known Bugs
+<a name="known-bugs"></a>
+# 8. Known Bugs
+  [Go to the top](#table-of-contents)
+
   - On some mobile devices the navigation bar appears behind the content. This was rectified by adding a z-index to the CSS for the navigation bar.
   - My first implementation of the navigation bar was not responsive on mobile devices, meaning that the design was floating off the screen. This was rectified by implementing a new navbar that included a hamburger style button when the screen size gets smaller.
   - The form styling on some mobile devices do not match the web styles. This was rectified by adding WebKit appearance, appearance in the CSS and set the value to none.
   - The video on the home page was not responsive. This was fixed by adding a height value in the CSS in smaller media queries.
   - The managerial career stats section was also not responsive. This was fixed by adding a smaller font-size value to the media query of max-width 635px. This allowed the whole section to be visible on mobile devices.
-  -
 
-# Credits
+<a name="credits"></a>
+# 9. Credits
+  [Go to the top](#table-of-contents)
 
 ### Code
  * The navigation bar code came from [Code Pen](https://codepen.io/puskuruk/pen/bGbexXd)
