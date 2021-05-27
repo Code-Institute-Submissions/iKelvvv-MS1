@@ -254,6 +254,28 @@ These include:
   - iPad Pro
   - Macbook Pro
 
+Please find below my testing process for all web pages:
+
+### All pages:
+  - Navigation Bar:
+    - Home - When selecting "home", the browser redirects me to the home page. The text in the navigation bar also stays highlighted in red. It worked as expected.
+    - Career - When selecting "career", the browser redirects me to the career page. The text in the navigation bar also stays highlighted in red. It worked as expected.
+    - Testimonials - When selecting "testimonials", the browser redirects me to the testimonials page. The text in the navigation bar also stays highlighted in red. It worked as expected.
+    - Gallery - When selecting "gallery", the browser redirects me to the gallery page. The text in the navigation bar also stays highlighted in red. It worked as expected.
+    - Contact - When selecting "contact", the browser redirects me to the contact page. The text in the navigation bar also stays highlighted in red. It worked as expected.
+
+  - Footer:
+    - Facebook - When selecting the Facebook icon, a new tab opens and redirects to the Facebook website. It worked as expected.
+    - Twitter -  When selecting the Twitter icon, a new tab opens and redirects to the Twitter website. It worked as expected.
+    - YouTube - When selecting the YouTube icon, a new tab opens and redirects to the YouTube website. It worked as expected.
+    - Instagram -  When selecting the Instagram icon, a new tab opens and redirects to the Instagram website. It worked as expected.
+
+### Landing page:
+### Career page:
+### Testimonials page:
+### Gallery page:
+### Contact page:
+
 <a name="development-cycle"></a>
 # 5. Development Cycle
   [Go to the top](#table-of-contents)
