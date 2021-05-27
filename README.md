@@ -254,7 +254,7 @@ These include:
   - iPad Pro
   - Macbook Pro
 
-Please find below my testing process for all web pages:
+Please find below my testing process for all pages via mobile and web:
 
 ### All pages:
   - Navigation Bar:
@@ -264,17 +264,44 @@ Please find below my testing process for all web pages:
     - Gallery - When selecting "gallery", the browser redirects me to the gallery page. The text in the navigation bar also stays highlighted in red. It worked as expected.
     - Contact - When selecting "contact", the browser redirects me to the contact page. The text in the navigation bar also stays highlighted in red. It worked as expected.
 
+    - Text:
+      - I checked that all text is in the correct and consistent size and font. I also checked that there were no typos.
+
+    - Media:
+      - I checked that all images and videos on this page load. Making sure that the video played and that all images have alt text if media does not load. It worked as expected.
+
+    - Responsiveness
+      - I checked that all pages and elements were responsive. Checking each page on mobile and website and adjusting screen size to find break points. It worked as expected.
+
   - Footer:
     - Facebook - When selecting the Facebook icon, a new tab opens and redirects to the Facebook website. It worked as expected.
     - Twitter -  When selecting the Twitter icon, a new tab opens and redirects to the Twitter website. It worked as expected.
     - YouTube - When selecting the YouTube icon, a new tab opens and redirects to the YouTube website. It worked as expected.
     - Instagram -  When selecting the Instagram icon, a new tab opens and redirects to the Instagram website. It worked as expected.
 
-### Landing page:
 ### Career page:
+  - Managerial Career Statistics:
+    - Checking the statistics element is responsive on mobile and web. This worked as expected.
+
+  - Timeline:
+    - I checked for consistency within the club logos for each section in the timeline.
+    - Making sure the the headers and content text is consistent in size and font.
+    - I also checked that the timeline is in chronological order.
+
 ### Testimonials page:
+  - Cards view:
+    - I tested the responsiveness of the cards view, making sure that the columns decreased as the screen got smaller.
+    - Making sure that the images do not pixelate when the screen got smaller. It worked as expected.
+
 ### Gallery page:
+  - Collage:
+    - Testing all images respond to the screen getting smaller. The columns show a decrease if this happens. It worked as expected.
+    - Hovering over each image to make sure that the hover animation is working and displaying the correct text and colours.
+
 ### Contact page:
+  - Contact form:
+    - Testing that each field of the form is required before submitting. It worked as expected.
+    - Checking that the submit button works and processes the form.
 
 <a name="development-cycle"></a>
 # 5. Development Cycle
